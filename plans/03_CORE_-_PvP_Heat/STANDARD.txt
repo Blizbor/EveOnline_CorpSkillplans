@@ -1,0 +1,18 @@
+Science I
+Science II
+Science III
+Science IV
+Thermodynamics I
+Thermodynamics II
+Thermodynamics III
+Thermodynamics IV
+Mechanics I
+Mechanics II
+Mechanics III
+Mechanics IV
+Nanite Operation I
+Nanite Operation II
+Nanite Operation III
+Nanite Interfacing I
+Nanite Interfacing II
+Nanite Interfacing III

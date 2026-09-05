@@ -1,0 +1,16 @@
+Gunnery I
+Gunnery II
+Gunnery III
+Gunnery IV
+Controlled Bursts I
+Controlled Bursts II
+Controlled Bursts III
+Jury Rigging I
+Jury Rigging II
+Jury Rigging III
+Energy Weapon Rigging I
+Energy Weapon Rigging II
+Small Energy Turret I
+Small Energy Turret II
+Small Energy Turret III
+Small Energy Turret IV

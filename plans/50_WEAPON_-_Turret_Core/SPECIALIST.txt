@@ -1,0 +1,30 @@
+Gunnery I
+Gunnery II
+Gunnery III
+Gunnery IV
+Gunnery V
+Rapid Firing I
+Rapid Firing II
+Rapid Firing III
+Rapid Firing IV
+Rapid Firing V
+Motion Prediction I
+Motion Prediction II
+Motion Prediction III
+Motion Prediction IV
+Motion Prediction V
+Sharpshooter I
+Sharpshooter II
+Sharpshooter III
+Sharpshooter IV
+Sharpshooter V
+Surgical Strike I
+Surgical Strike II
+Surgical Strike III
+Surgical Strike IV
+Surgical Strike V
+Trajectory Analysis I
+Trajectory Analysis II
+Trajectory Analysis III
+Trajectory Analysis IV
+Trajectory Analysis V
