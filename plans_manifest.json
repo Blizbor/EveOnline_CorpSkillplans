@@ -1,0 +1,802 @@
+[
+  {
+    "code": "00",
+    "title": "CORE - Engineering & Capacitor",
+    "category": "CORE",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/00_CORE_-_Engineering_and_Capacitor"
+  },
+  {
+    "code": "01",
+    "title": "CORE - Navigation",
+    "category": "CORE",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/01_CORE_-_Navigation"
+  },
+  {
+    "code": "02",
+    "title": "CORE - Targeting",
+    "category": "CORE",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/02_CORE_-_Targeting"
+  },
+  {
+    "code": "03",
+    "title": "CORE - PvP Heat",
+    "category": "CORE",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/03_CORE_-_PvP_Heat"
+  },
+  {
+    "code": "04",
+    "title": "CORE - Rigging Foundation",
+    "category": "CORE",
+    "milestones": "READY | STANDARD",
+    "dependencies": "",
+    "directory": "plans/04_CORE_-_Rigging_Foundation"
+  },
+  {
+    "code": "10",
+    "title": "COMBAT - Damage Mods & Weapon Fitting",
+    "category": "COMBAT",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/10_COMBAT_-_Damage_Mods_and_Weapon_Fitting"
+  },
+  {
+    "code": "20",
+    "title": "TANK - Armor Core",
+    "category": "TANK",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "04 CORE - Rigging Foundation",
+    "directory": "plans/20_TANK_-_Armor_Core"
+  },
+  {
+    "code": "21",
+    "title": "TANK - Armor Buffer",
+    "category": "TANK",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "20 TANK - Armor Core",
+    "directory": "plans/21_TANK_-_Armor_Buffer"
+  },
+  {
+    "code": "22",
+    "title": "TANK - Armor Active",
+    "category": "TANK",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "20 TANK - Armor Core",
+    "directory": "plans/22_TANK_-_Armor_Active"
+  },
+  {
+    "code": "30",
+    "title": "TANK - Shield Core",
+    "category": "TANK",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "04 CORE - Rigging Foundation",
+    "directory": "plans/30_TANK_-_Shield_Core"
+  },
+  {
+    "code": "31",
+    "title": "TANK - Shield Active",
+    "category": "TANK",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "30 TANK - Shield Core",
+    "directory": "plans/31_TANK_-_Shield_Active"
+  },
+  {
+    "code": "50",
+    "title": "WEAPON - Turret Core",
+    "category": "WEAPON",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/50_WEAPON_-_Turret_Core"
+  },
+  {
+    "code": "51",
+    "title": "WEAPON - Hybrid",
+    "category": "WEAPON",
+    "milestones": "SMALL READY | SMALL T2 | MEDIUM T2 | LARGE T2 | SPECIALIST",
+    "dependencies": "10 COMBAT - Damage Mods & Weapon Fitting | 50 WEAPON - Turret Core | 04 CORE - Rigging Foundation",
+    "directory": "plans/51_WEAPON_-_Hybrid"
+  },
+  {
+    "code": "52",
+    "title": "WEAPON - Projectile",
+    "category": "WEAPON",
+    "milestones": "SMALL READY | SMALL T2 | MEDIUM T2 | LARGE T2 | SPECIALIST",
+    "dependencies": "10 COMBAT - Damage Mods & Weapon Fitting | 50 WEAPON - Turret Core | 04 CORE - Rigging Foundation",
+    "directory": "plans/52_WEAPON_-_Projectile"
+  },
+  {
+    "code": "53",
+    "title": "WEAPON - Energy",
+    "category": "WEAPON",
+    "milestones": "SMALL READY | SMALL T2 | MEDIUM T2 | LARGE T2 | SPECIALIST",
+    "dependencies": "10 COMBAT - Damage Mods & Weapon Fitting | 50 WEAPON - Turret Core | 04 CORE - Rigging Foundation",
+    "directory": "plans/53_WEAPON_-_Energy"
+  },
+  {
+    "code": "60",
+    "title": "WEAPON - Missile Core",
+    "category": "WEAPON",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "10 COMBAT - Damage Mods & Weapon Fitting | 04 CORE - Rigging Foundation",
+    "directory": "plans/60_WEAPON_-_Missile_Core"
+  },
+  {
+    "code": "61",
+    "title": "MISSILE - Rockets & Light",
+    "category": "WEAPON",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "60 WEAPON - Missile Core",
+    "directory": "plans/61_MISSILE_-_Rockets_and_Light"
+  },
+  {
+    "code": "62",
+    "title": "MISSILE - HAM & Heavy",
+    "category": "WEAPON",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "60 WEAPON - Missile Core",
+    "directory": "plans/62_MISSILE_-_HAM_and_Heavy"
+  },
+  {
+    "code": "63",
+    "title": "MISSILE - Torpedo & Cruise",
+    "category": "WEAPON",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "60 WEAPON - Missile Core",
+    "directory": "plans/63_MISSILE_-_Torpedo_and_Cruise"
+  },
+  {
+    "code": "70",
+    "title": "WEAPON - Drone Core",
+    "category": "WEAPON",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "10 COMBAT - Damage Mods & Weapon Fitting | 04 CORE - Rigging Foundation",
+    "directory": "plans/70_WEAPON_-_Drone_Core"
+  },
+  {
+    "code": "71",
+    "title": "DRONES - Light T2",
+    "category": "WEAPON",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "70 WEAPON - Drone Core",
+    "directory": "plans/71_DRONES_-_Light_T2"
+  },
+  {
+    "code": "72",
+    "title": "DRONES - Medium T2",
+    "category": "WEAPON",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "70 WEAPON - Drone Core",
+    "directory": "plans/72_DRONES_-_Medium_T2"
+  },
+  {
+    "code": "73",
+    "title": "DRONES - Heavy",
+    "category": "WEAPON",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "70 WEAPON - Drone Core",
+    "directory": "plans/73_DRONES_-_Heavy"
+  },
+  {
+    "code": "74",
+    "title": "DRONES - Sentry",
+    "category": "WEAPON",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "70 WEAPON - Drone Core",
+    "directory": "plans/74_DRONES_-_Sentry"
+  },
+  {
+    "code": "80",
+    "title": "SCOUT - Signature Scanning",
+    "category": "SCOUT",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/80_SCOUT_-_Signature_Scanning"
+  },
+  {
+    "code": "81",
+    "title": "SCOUT - Combat Probing",
+    "category": "SCOUT",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "80 SCOUT - Signature Scanning",
+    "directory": "plans/81_SCOUT_-_Combat_Probing"
+  },
+  {
+    "code": "82",
+    "title": "SCOUT - Covert Operations",
+    "category": "SCOUT",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/82_SCOUT_-_Covert_Operations"
+  },
+  {
+    "code": "83",
+    "title": "CYNO - Industrial",
+    "category": "CYNO",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/83_CYNO_-_Industrial"
+  },
+  {
+    "code": "84",
+    "title": "CYNO - Hard",
+    "category": "CYNO",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/84_CYNO_-_Hard"
+  },
+  {
+    "code": "85",
+    "title": "CYNO - Covert",
+    "category": "CYNO",
+    "milestones": "READY",
+    "dependencies": "",
+    "directory": "plans/85_CYNO_-_Covert"
+  },
+  {
+    "code": "90",
+    "title": "HULL - Frigate - Amarr",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/90_HULL_-_Frigate_-_Amarr"
+  },
+  {
+    "code": "91",
+    "title": "HULL - Destroyer - Amarr",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | T2/T3 GATEWAY | T3D READY | T3D STANDARD",
+    "dependencies": "",
+    "directory": "plans/91_HULL_-_Destroyer_-_Amarr"
+  },
+  {
+    "code": "92",
+    "title": "HULL - Cruiser - Amarr",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/92_HULL_-_Cruiser_-_Amarr"
+  },
+  {
+    "code": "93",
+    "title": "HULL - Battlecruiser - Amarr",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/93_HULL_-_Battlecruiser_-_Amarr"
+  },
+  {
+    "code": "94",
+    "title": "HULL - Battleship - Amarr",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/94_HULL_-_Battleship_-_Amarr"
+  },
+  {
+    "code": "90",
+    "title": "HULL - Frigate - Caldari",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/90_HULL_-_Frigate_-_Caldari"
+  },
+  {
+    "code": "91",
+    "title": "HULL - Destroyer - Caldari",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | T2/T3 GATEWAY | T3D READY | T3D STANDARD",
+    "dependencies": "",
+    "directory": "plans/91_HULL_-_Destroyer_-_Caldari"
+  },
+  {
+    "code": "92",
+    "title": "HULL - Cruiser - Caldari",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/92_HULL_-_Cruiser_-_Caldari"
+  },
+  {
+    "code": "93",
+    "title": "HULL - Battlecruiser - Caldari",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/93_HULL_-_Battlecruiser_-_Caldari"
+  },
+  {
+    "code": "94",
+    "title": "HULL - Battleship - Caldari",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/94_HULL_-_Battleship_-_Caldari"
+  },
+  {
+    "code": "90",
+    "title": "HULL - Frigate - Gallente",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/90_HULL_-_Frigate_-_Gallente"
+  },
+  {
+    "code": "91",
+    "title": "HULL - Destroyer - Gallente",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | T2/T3 GATEWAY | T3D READY | T3D STANDARD",
+    "dependencies": "",
+    "directory": "plans/91_HULL_-_Destroyer_-_Gallente"
+  },
+  {
+    "code": "92",
+    "title": "HULL - Cruiser - Gallente",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/92_HULL_-_Cruiser_-_Gallente"
+  },
+  {
+    "code": "93",
+    "title": "HULL - Battlecruiser - Gallente",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/93_HULL_-_Battlecruiser_-_Gallente"
+  },
+  {
+    "code": "94",
+    "title": "HULL - Battleship - Gallente",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/94_HULL_-_Battleship_-_Gallente"
+  },
+  {
+    "code": "90",
+    "title": "HULL - Frigate - Minmatar",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/90_HULL_-_Frigate_-_Minmatar"
+  },
+  {
+    "code": "91",
+    "title": "HULL - Destroyer - Minmatar",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | T2/T3 GATEWAY | T3D READY | T3D STANDARD",
+    "dependencies": "",
+    "directory": "plans/91_HULL_-_Destroyer_-_Minmatar"
+  },
+  {
+    "code": "92",
+    "title": "HULL - Cruiser - Minmatar",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/92_HULL_-_Cruiser_-_Minmatar"
+  },
+  {
+    "code": "93",
+    "title": "HULL - Battlecruiser - Minmatar",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/93_HULL_-_Battlecruiser_-_Minmatar"
+  },
+  {
+    "code": "94",
+    "title": "HULL - Battleship - Minmatar",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/94_HULL_-_Battleship_-_Minmatar"
+  },
+  {
+    "code": "95",
+    "title": "HULL - Hauler - Amarr",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/95_HULL_-_Hauler_-_Amarr"
+  },
+  {
+    "code": "95",
+    "title": "HULL - Hauler - Caldari",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/95_HULL_-_Hauler_-_Caldari"
+  },
+  {
+    "code": "95",
+    "title": "HULL - Hauler - Gallente",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/95_HULL_-_Hauler_-_Gallente"
+  },
+  {
+    "code": "95",
+    "title": "HULL - Hauler - Minmatar",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/95_HULL_-_Hauler_-_Minmatar"
+  },
+  {
+    "code": "95",
+    "title": "HULL - Transport Ships",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/95_HULL_-_Transport_Ships"
+  },
+  {
+    "code": "95",
+    "title": "HULL - Freighter - Amarr",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/95_HULL_-_Freighter_-_Amarr"
+  },
+  {
+    "code": "95",
+    "title": "HULL - Freighter - Caldari",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/95_HULL_-_Freighter_-_Caldari"
+  },
+  {
+    "code": "95",
+    "title": "HULL - Freighter - Gallente",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/95_HULL_-_Freighter_-_Gallente"
+  },
+  {
+    "code": "95",
+    "title": "HULL - Freighter - Minmatar",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/95_HULL_-_Freighter_-_Minmatar"
+  },
+  {
+    "code": "95",
+    "title": "HULL - Jump Freighter",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/95_HULL_-_Jump_Freighter"
+  },
+  {
+    "code": "96",
+    "title": "HULL - Mining Frigate",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/96_HULL_-_Mining_Frigate"
+  },
+  {
+    "code": "96",
+    "title": "HULL - Mining Destroyer",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/96_HULL_-_Mining_Destroyer"
+  },
+  {
+    "code": "96",
+    "title": "HULL - Expedition Frigates",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/96_HULL_-_Expedition_Frigates"
+  },
+  {
+    "code": "96",
+    "title": "HULL - Mining Barge",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/96_HULL_-_Mining_Barge"
+  },
+  {
+    "code": "96",
+    "title": "HULL - Exhumers",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/96_HULL_-_Exhumers"
+  },
+  {
+    "code": "96",
+    "title": "HULL - ORE Hauler",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/96_HULL_-_ORE_Hauler"
+  },
+  {
+    "code": "96",
+    "title": "HULL - Industrial Command Ships",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/96_HULL_-_Industrial_Command_Ships"
+  },
+  {
+    "code": "96",
+    "title": "HULL - ORE Freighter",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/96_HULL_-_ORE_Freighter"
+  },
+  {
+    "code": "96",
+    "title": "HULL - Capital Industrial",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/96_HULL_-_Capital_Industrial"
+  },
+  {
+    "code": "97",
+    "title": "HULL - Assault Frigates",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/97_HULL_-_Assault_Frigates"
+  },
+  {
+    "code": "97",
+    "title": "HULL - Interceptors",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/97_HULL_-_Interceptors"
+  },
+  {
+    "code": "97",
+    "title": "HULL - Electronic Attack Ships",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/97_HULL_-_Electronic_Attack_Ships"
+  },
+  {
+    "code": "97",
+    "title": "HULL - Logistics Frigates",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/97_HULL_-_Logistics_Frigates"
+  },
+  {
+    "code": "97",
+    "title": "HULL - Interdictors",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/97_HULL_-_Interdictors"
+  },
+  {
+    "code": "97",
+    "title": "HULL - Command Destroyers",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/97_HULL_-_Command_Destroyers"
+  },
+  {
+    "code": "97",
+    "title": "HULL - Heavy Assault Cruisers",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/97_HULL_-_Heavy_Assault_Cruisers"
+  },
+  {
+    "code": "97",
+    "title": "HULL - Logistics Cruisers",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/97_HULL_-_Logistics_Cruisers"
+  },
+  {
+    "code": "97",
+    "title": "HULL - Recon Ships",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/97_HULL_-_Recon_Ships"
+  },
+  {
+    "code": "97",
+    "title": "HULL - Heavy Interdiction Cruisers",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/97_HULL_-_Heavy_Interdiction_Cruisers"
+  },
+  {
+    "code": "97",
+    "title": "HULL - Command Ships",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/97_HULL_-_Command_Ships"
+  },
+  {
+    "code": "97",
+    "title": "HULL - Marauders",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/97_HULL_-_Marauders"
+  },
+  {
+    "code": "97",
+    "title": "HULL - Black Ops",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/97_HULL_-_Black_Ops"
+  },
+  {
+    "code": "98",
+    "title": "HULL - Strategic Cruiser - Legion",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/98_HULL_-_Strategic_Cruiser_-_Legion"
+  },
+  {
+    "code": "98",
+    "title": "HULL - Strategic Cruiser - Tengu",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/98_HULL_-_Strategic_Cruiser_-_Tengu"
+  },
+  {
+    "code": "98",
+    "title": "HULL - Strategic Cruiser - Proteus",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/98_HULL_-_Strategic_Cruiser_-_Proteus"
+  },
+  {
+    "code": "98",
+    "title": "HULL - Strategic Cruiser - Loki",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/98_HULL_-_Strategic_Cruiser_-_Loki"
+  },
+  {
+    "code": "99",
+    "title": "HULL - Dreadnought - Amarr",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/99_HULL_-_Dreadnought_-_Amarr"
+  },
+  {
+    "code": "99",
+    "title": "HULL - Dreadnought - Caldari",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/99_HULL_-_Dreadnought_-_Caldari"
+  },
+  {
+    "code": "99",
+    "title": "HULL - Dreadnought - Gallente",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/99_HULL_-_Dreadnought_-_Gallente"
+  },
+  {
+    "code": "99",
+    "title": "HULL - Dreadnought - Minmatar",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/99_HULL_-_Dreadnought_-_Minmatar"
+  },
+  {
+    "code": "99",
+    "title": "HULL - Carrier - Amarr",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/99_HULL_-_Carrier_-_Amarr"
+  },
+  {
+    "code": "99",
+    "title": "HULL - Carrier - Caldari",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/99_HULL_-_Carrier_-_Caldari"
+  },
+  {
+    "code": "99",
+    "title": "HULL - Carrier - Gallente",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/99_HULL_-_Carrier_-_Gallente"
+  },
+  {
+    "code": "99",
+    "title": "HULL - Carrier - Minmatar",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/99_HULL_-_Carrier_-_Minmatar"
+  },
+  {
+    "code": "99",
+    "title": "HULL - Titan - Amarr",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/99_HULL_-_Titan_-_Amarr"
+  },
+  {
+    "code": "99",
+    "title": "HULL - Titan - Caldari",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/99_HULL_-_Titan_-_Caldari"
+  },
+  {
+    "code": "99",
+    "title": "HULL - Titan - Gallente",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/99_HULL_-_Titan_-_Gallente"
+  },
+  {
+    "code": "99",
+    "title": "HULL - Titan - Minmatar",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/99_HULL_-_Titan_-_Minmatar"
+  },
+  {
+    "code": "99",
+    "title": "HULL - Lancer Dreadnoughts",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/99_HULL_-_Lancer_Dreadnoughts"
+  },
+  {
+    "code": "99",
+    "title": "HULL - Command Carriers",
+    "category": "HULL",
+    "milestones": "READY | STANDARD | SPECIALIST",
+    "dependencies": "",
+    "directory": "plans/99_HULL_-_Command_Carriers"
+  }
+]

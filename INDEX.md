@@ -1,0 +1,102 @@
+# Index — 100 plan templates
+
+- **00 CORE - Engineering & Capacitor** — READY | STANDARD | SPECIALIST
+- **01 CORE - Navigation** — READY | STANDARD | SPECIALIST
+- **02 CORE - Targeting** — READY | STANDARD | SPECIALIST
+- **03 CORE - PvP Heat** — READY | STANDARD | SPECIALIST
+- **04 CORE - Rigging Foundation** — READY | STANDARD
+- **10 COMBAT - Damage Mods & Weapon Fitting** — READY | STANDARD | SPECIALIST
+- **20 TANK - Armor Core** — READY | STANDARD | SPECIALIST
+- **21 TANK - Armor Buffer** — READY | STANDARD | SPECIALIST
+- **22 TANK - Armor Active** — READY | STANDARD | SPECIALIST
+- **30 TANK - Shield Core** — READY | STANDARD | SPECIALIST
+- **31 TANK - Shield Active** — READY | STANDARD | SPECIALIST
+- **50 WEAPON - Turret Core** — READY | STANDARD | SPECIALIST
+- **51 WEAPON - Hybrid** — SMALL READY | SMALL T2 | MEDIUM T2 | LARGE T2 | SPECIALIST
+- **52 WEAPON - Projectile** — SMALL READY | SMALL T2 | MEDIUM T2 | LARGE T2 | SPECIALIST
+- **53 WEAPON - Energy** — SMALL READY | SMALL T2 | MEDIUM T2 | LARGE T2 | SPECIALIST
+- **60 WEAPON - Missile Core** — READY | STANDARD | SPECIALIST
+- **61 MISSILE - Rockets & Light** — READY | STANDARD | SPECIALIST
+- **62 MISSILE - HAM & Heavy** — READY | STANDARD | SPECIALIST
+- **63 MISSILE - Torpedo & Cruise** — READY | STANDARD | SPECIALIST
+- **70 WEAPON - Drone Core** — READY | STANDARD | SPECIALIST
+- **71 DRONES - Light T2** — READY | STANDARD | SPECIALIST
+- **72 DRONES - Medium T2** — READY | STANDARD | SPECIALIST
+- **73 DRONES - Heavy** — READY | STANDARD | SPECIALIST
+- **74 DRONES - Sentry** — READY | STANDARD | SPECIALIST
+- **80 SCOUT - Signature Scanning** — READY | STANDARD | SPECIALIST
+- **81 SCOUT - Combat Probing** — READY | STANDARD | SPECIALIST
+- **82 SCOUT - Covert Operations** — READY | STANDARD | SPECIALIST
+- **83 CYNO - Industrial** — READY | STANDARD | SPECIALIST
+- **84 CYNO - Hard** — READY | STANDARD | SPECIALIST
+- **85 CYNO - Covert** — READY
+- **90 HULL - Frigate - Amarr** — READY | STANDARD | SPECIALIST
+- **91 HULL - Destroyer - Amarr** — READY | STANDARD | T2/T3 GATEWAY | T3D READY | T3D STANDARD
+- **92 HULL - Cruiser - Amarr** — READY | STANDARD | SPECIALIST
+- **93 HULL - Battlecruiser - Amarr** — READY | STANDARD | SPECIALIST
+- **94 HULL - Battleship - Amarr** — READY | STANDARD | SPECIALIST
+- **90 HULL - Frigate - Caldari** — READY | STANDARD | SPECIALIST
+- **91 HULL - Destroyer - Caldari** — READY | STANDARD | T2/T3 GATEWAY | T3D READY | T3D STANDARD
+- **92 HULL - Cruiser - Caldari** — READY | STANDARD | SPECIALIST
+- **93 HULL - Battlecruiser - Caldari** — READY | STANDARD | SPECIALIST
+- **94 HULL - Battleship - Caldari** — READY | STANDARD | SPECIALIST
+- **90 HULL - Frigate - Gallente** — READY | STANDARD | SPECIALIST
+- **91 HULL - Destroyer - Gallente** — READY | STANDARD | T2/T3 GATEWAY | T3D READY | T3D STANDARD
+- **92 HULL - Cruiser - Gallente** — READY | STANDARD | SPECIALIST
+- **93 HULL - Battlecruiser - Gallente** — READY | STANDARD | SPECIALIST
+- **94 HULL - Battleship - Gallente** — READY | STANDARD | SPECIALIST
+- **90 HULL - Frigate - Minmatar** — READY | STANDARD | SPECIALIST
+- **91 HULL - Destroyer - Minmatar** — READY | STANDARD | T2/T3 GATEWAY | T3D READY | T3D STANDARD
+- **92 HULL - Cruiser - Minmatar** — READY | STANDARD | SPECIALIST
+- **93 HULL - Battlecruiser - Minmatar** — READY | STANDARD | SPECIALIST
+- **94 HULL - Battleship - Minmatar** — READY | STANDARD | SPECIALIST
+- **95 HULL - Hauler - Amarr** — READY | STANDARD | SPECIALIST
+- **95 HULL - Hauler - Caldari** — READY | STANDARD | SPECIALIST
+- **95 HULL - Hauler - Gallente** — READY | STANDARD | SPECIALIST
+- **95 HULL - Hauler - Minmatar** — READY | STANDARD | SPECIALIST
+- **95 HULL - Transport Ships** — READY | STANDARD | SPECIALIST
+- **95 HULL - Freighter - Amarr** — READY | STANDARD | SPECIALIST
+- **95 HULL - Freighter - Caldari** — READY | STANDARD | SPECIALIST
+- **95 HULL - Freighter - Gallente** — READY | STANDARD | SPECIALIST
+- **95 HULL - Freighter - Minmatar** — READY | STANDARD | SPECIALIST
+- **95 HULL - Jump Freighter** — READY | STANDARD | SPECIALIST
+- **96 HULL - Mining Frigate** — READY | STANDARD | SPECIALIST
+- **96 HULL - Mining Destroyer** — READY | STANDARD | SPECIALIST
+- **96 HULL - Expedition Frigates** — READY | STANDARD | SPECIALIST
+- **96 HULL - Mining Barge** — READY | STANDARD | SPECIALIST
+- **96 HULL - Exhumers** — READY | STANDARD | SPECIALIST
+- **96 HULL - ORE Hauler** — READY | STANDARD | SPECIALIST
+- **96 HULL - Industrial Command Ships** — READY | STANDARD | SPECIALIST
+- **96 HULL - ORE Freighter** — READY | STANDARD | SPECIALIST
+- **96 HULL - Capital Industrial** — READY | STANDARD | SPECIALIST
+- **97 HULL - Assault Frigates** — READY | STANDARD | SPECIALIST
+- **97 HULL - Interceptors** — READY | STANDARD | SPECIALIST
+- **97 HULL - Electronic Attack Ships** — READY | STANDARD | SPECIALIST
+- **97 HULL - Logistics Frigates** — READY | STANDARD | SPECIALIST
+- **97 HULL - Interdictors** — READY | STANDARD | SPECIALIST
+- **97 HULL - Command Destroyers** — READY | STANDARD | SPECIALIST
+- **97 HULL - Heavy Assault Cruisers** — READY | STANDARD | SPECIALIST
+- **97 HULL - Logistics Cruisers** — READY | STANDARD | SPECIALIST
+- **97 HULL - Recon Ships** — READY | STANDARD | SPECIALIST
+- **97 HULL - Heavy Interdiction Cruisers** — READY | STANDARD | SPECIALIST
+- **97 HULL - Command Ships** — READY | STANDARD | SPECIALIST
+- **97 HULL - Marauders** — READY | STANDARD | SPECIALIST
+- **97 HULL - Black Ops** — READY | STANDARD | SPECIALIST
+- **98 HULL - Strategic Cruiser - Legion** — READY | STANDARD | SPECIALIST
+- **98 HULL - Strategic Cruiser - Tengu** — READY | STANDARD | SPECIALIST
+- **98 HULL - Strategic Cruiser - Proteus** — READY | STANDARD | SPECIALIST
+- **98 HULL - Strategic Cruiser - Loki** — READY | STANDARD | SPECIALIST
+- **99 HULL - Dreadnought - Amarr** — READY | STANDARD | SPECIALIST
+- **99 HULL - Dreadnought - Caldari** — READY | STANDARD | SPECIALIST
+- **99 HULL - Dreadnought - Gallente** — READY | STANDARD | SPECIALIST
+- **99 HULL - Dreadnought - Minmatar** — READY | STANDARD | SPECIALIST
+- **99 HULL - Carrier - Amarr** — READY | STANDARD | SPECIALIST
+- **99 HULL - Carrier - Caldari** — READY | STANDARD | SPECIALIST
+- **99 HULL - Carrier - Gallente** — READY | STANDARD | SPECIALIST
+- **99 HULL - Carrier - Minmatar** — READY | STANDARD | SPECIALIST
+- **99 HULL - Titan - Amarr** — READY | STANDARD | SPECIALIST
+- **99 HULL - Titan - Caldari** — READY | STANDARD | SPECIALIST
+- **99 HULL - Titan - Gallente** — READY | STANDARD | SPECIALIST
+- **99 HULL - Titan - Minmatar** — READY | STANDARD | SPECIALIST
+- **99 HULL - Lancer Dreadnoughts** — READY | STANDARD | SPECIALIST
+- **99 HULL - Command Carriers** — READY | STANDARD | SPECIALIST
