@@ -1,0 +1,15 @@
+Science I
+Science II
+Science III
+Astrometrics I
+Astrometrics II
+Astrometrics III
+Astrometrics IV
+Astrometric Rangefinding I
+Astrometric Rangefinding II
+Astrometric Rangefinding III
+Astrometric Pinpointing I
+Astrometric Pinpointing II
+Astrometric Pinpointing III
+Astrometric Acquisition I
+Astrometric Acquisition II
