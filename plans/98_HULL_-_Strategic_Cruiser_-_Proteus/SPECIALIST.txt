@@ -1,0 +1,58 @@
+Spaceship Command I
+Spaceship Command II
+Gallente Cruiser I
+Gallente Cruiser II
+Gallente Cruiser III
+Gallente Cruiser IV
+Gallente Cruiser V
+Mechanics I
+Mechanics II
+Mechanics III
+Mechanics IV
+Mechanics V
+Shield Operation I
+Shield Operation II
+Shield Operation III
+Power Grid Management I
+Power Grid Management II
+Power Grid Management III
+Power Grid Management IV
+Power Grid Management V
+Gunnery I
+Gunnery II
+Gunnery III
+Gunnery IV
+Gunnery V
+Drones I
+Drones II
+Drones III
+Navigation I
+Navigation II
+Navigation III
+Navigation IV
+Navigation V
+Gallente Strategic Cruiser I
+Gallente Strategic Cruiser II
+Gallente Strategic Cruiser III
+Gallente Strategic Cruiser IV
+Gallente Strategic Cruiser V
+Gallente Defensive Systems I
+Gallente Defensive Systems II
+Gallente Defensive Systems III
+Gallente Defensive Systems IV
+Gallente Defensive Systems V
+Gallente Core Systems I
+Gallente Core Systems II
+Gallente Core Systems III
+Gallente Core Systems IV
+Gallente Core Systems V
+Gallente Offensive Systems I
+Gallente Offensive Systems II
+Gallente Offensive Systems III
+Gallente Offensive Systems IV
+Gallente Offensive Systems V
+Gallente Propulsion Systems I
+Gallente Propulsion Systems II
+Gallente Propulsion Systems III
+Gallente Propulsion Systems IV
+Gallente Propulsion Systems V
