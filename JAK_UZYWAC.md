@@ -1,10 +1,7 @@
-# EVE Corp Skillplans
+# Jak używać EVE Corp Skillplans
 
-Większość „must have skillplanów” mówi pilotowi **co trenować**, ale niewiele mówi o tym **kiedy jest już wystarczająco dobrze wyszkolony, co powinien trenować dalej i których skilli w ogóle nie potrzebuje**.
-
-Ten projekt jest próbą zbudowania praktycznej ścieżki rozwoju postaci w EVE Online bez wrzucania wszystkich pilotów do jednego worka. Pilot shield/missile nie powinien trenować armorów i laserów tylko dlatego, że znalazły się w ogólnym planie korporacyjnym. Podobnie pilot cruisera nie potrzebuje od razu wszystkich skilli przydatnych Battleshipowi, a poziom V nie powinien być automatycznym celem tylko dlatego, że istnieje.
-
-Skillplany są więc podzielone na niezależne moduły: podstawy fittingu i capa, nawigację, tank, poszczególne rodziny broni, drony, scouting, cyno oraz progresję hulli. Pilot wybiera tylko te gałęzie, których rzeczywiście potrzebuje.
+Skillplany są podzielone na niezależne moduły: podstawy fittingu i capa, nawigację, tank, poszczególne rodziny broni, drony, scouting, cyno oraz progresję hulli. Pilot wybiera tylko te gałęzie, których rzeczywiście potrzebuje.
+Na końcu dokumentu masz ops gotowych ścieżek rozwoju fregat, destroyerów, cruiserów (wraz z HAC) i battleshipów dla każdej rasy. Dodatkowo jest opiscany scenariusz rozwoju pilota Gila.
 
 Każdy plan ma trzy poziomy rozwoju:
 
