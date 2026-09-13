@@ -76,12 +76,3 @@ Skill requirements w EVE mogą być zmieniane przez CCP. Długie ścieżki T2/ca
 - [`strategies/SCENARIOS`](strategies/SCENARIOS) — praktyczne scenariusze rozwoju, obecnie z dodanym scenariuszem do Gili,
 - [`diagrams`](diagrams) — diagramy progresji dla broni, tanków i scenariuszy.
 
-## Korekta filozofii planu 00
-
-Po aktualizacji:
-- `CPU Management V`
-- `Power Grid Management V`
-- `Capacitor Management V`
-- `Capacitor Systems Operation V`
-
-trafiają do `00 IMPROVED`, bo są zbyt praktyczne, żeby traktować je jako „opcjonalny luksus”.
