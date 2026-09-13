@@ -1,14 +1,20 @@
 # EVE Corp Skillplans
 
-Modularna biblioteka **89 corp skillplanów** przygotowana do publikacji na GitHub.
+Większość „must have skillplanów” mówi pilotowi **co trenować**, ale niewiele mówi o tym **kiedy jest już wystarczająco dobrze wyszkolony, co powinien trenować dalej i których skilli w ogóle nie potrzebuje**.
 
-## Poziomy
+Ten projekt jest próbą zbudowania praktycznej ścieżki rozwoju postaci w EVE Online bez wrzucania wszystkich pilotów do jednego worka. Pilot shield/missile nie powinien trenować armorów i laserów tylko dlatego, że znalazły się w ogólnym planie korporacyjnym. Podobnie pilot cruisera nie potrzebuje od razu wszystkich skilli przydatnych Battleshipowi, a poziom V nie powinien być automatycznym celem tylko dlatego, że istnieje.
 
-Każdy plan ma dokładnie trzy poziomy:
+Skillplany są więc podzielone na niezależne moduły: podstawy fittingu i capa, nawigację, tank, poszczególne rodziny broni, drony, scouting, cyno oraz progresję hulli. Pilot wybiera tylko te gałęzie, których rzeczywiście potrzebuje.
 
-- **BASIC** — wejście w rolę / najniższy rozsądny próg,
-- **STANDARD** — poziom zalecany do regularnego używania,
-- **IMPROVED** — dalsze rozwinięcie bez bezmyślnego trenowania wszystkich supportów na V.
+Każdy plan ma trzy poziomy rozwoju:
+
+* **BASIC** — wejście w rolę / najniższy rozsądny próg. Wystarczy, żeby zacząć sensownie używać danej mechaniki lub hulla;
+* **STANDARD** — poziom zalecany do regularnego używania;
+* **IMPROVED** — dalsze rozwinięcie bez bezmyślnego trenowania wszystkich supportów na V.
+
+Celem nie jest stworzenie postaci z największą liczbą skillpointów. Celem jest stworzenie pilota, który **może założyć sensowny fit, wykorzystuje bonusy swojego statku i nie odkrywa po wejściu do floty, że brakuje mu podstawowego skilla IV tylko dlatego, że poprzedni plan kazał mu trenować coś zupełnie innego na V**.
+
+Oprócz samych skillplanów repozytorium zawiera przykładowe ścieżki rozwoju dla konkretnych ras i klas statków, scenariusze treningowe oraz diagramy pokazujące, jak poszczególne moduły łączą się w kompletnego pilota.
 
 W każdym katalogu planu znajdują się:
 
