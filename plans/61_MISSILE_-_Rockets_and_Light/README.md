@@ -2,17 +2,13 @@
 
 **Kategoria:** WEAPON
 
-## Zależności / zalecane plany
+## Poziomy
 
-- 60 WEAPON - Missile Core
+### BASIC
 
-## Milestone'y
+Najniższy rozsądny poziom wejścia.
 
-### READY
-
-Dobre T1/meta small missiles.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -22,9 +18,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-T2 rockets + light missiles.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -34,11 +30,11 @@ Docelowe poziomy:
 - Rocket Specialization III
 - Light Missile Specialization III
 
-### SPECIALIST
+### IMPROVED
 
-Spec IV obu małych systemów.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -47,3 +43,13 @@ Docelowe poziomy:
 - Light Missiles V
 - Rocket Specialization IV
 - Light Missile Specialization IV
+
+## Zależności / zalecane plany
+
+- 60 WEAPON - Missile Support
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

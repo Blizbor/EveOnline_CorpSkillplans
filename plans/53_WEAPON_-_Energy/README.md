@@ -2,37 +2,13 @@
 
 **Kategoria:** WEAPON
 
-## Zależności / zalecane plany
+## Poziomy
 
-- 10 COMBAT - Damage Mods & Weapon Fitting
-- 50 WEAPON - Turret Core
-- 04 CORE - Rigging Foundation
+### BASIC
 
-## Uwagi
+T2 small weapons — docelowy poziom dla frigate/destroyer.
 
-- Plan obejmuje oba warianty tej rodziny (short/long). Jeśli corp chce ultra-minimalizm SP, można z PLAN.md zrobić dwa warianty doktrynalne.
-
-## Milestone'y
-
-### SMALL READY
-
-Dobre T1/meta małe działa.
-
-Plik importowy: `SMALL_READY.txt`
-
-Docelowe poziomy:
-
-- Gunnery IV
-- Controlled Bursts III
-- Jury Rigging III
-- Energy Weapon Rigging II
-- Small Energy Turret IV
-
-### SMALL T2
-
-T2 małe działa obu wariantów.
-
-Plik importowy: `SMALL_T2.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -44,11 +20,11 @@ Docelowe poziomy:
 - Small Pulse Laser Specialization III
 - Small Beam Laser Specialization III
 
-### MEDIUM T2
+### STANDARD
 
-T2 medium: właściwy standard dla cruiser/BC.
+T2 medium weapons — docelowy poziom dla cruiser/BC.
 
-Plik importowy: `MEDIUM_T2.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -63,38 +39,16 @@ Docelowe poziomy:
 - Medium Pulse Laser Specialization III
 - Medium Beam Laser Specialization III
 
-### LARGE T2
+### IMPROVED
 
-T2 large: battleship-ready.
+T2 large weapons + specialization IV; V supporty tylko tam, gdzie są prerequisite do large T2.
 
-Plik importowy: `LARGE_T2.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
-- Gunnery IV
+- Gunnery V
 - Controlled Bursts IV
-- Jury Rigging III
-- Energy Weapon Rigging III
-- Small Energy Turret V
-- Small Pulse Laser Specialization IV
-- Small Beam Laser Specialization IV
-- Medium Energy Turret V
-- Medium Pulse Laser Specialization IV
-- Medium Beam Laser Specialization IV
-- Large Energy Turret V
-- Large Pulse Laser Specialization III
-- Large Beam Laser Specialization III
-
-### SPECIALIST
-
-Spec IV i sensowny koniec bez bardzo drogich Spec V.
-
-Plik importowy: `SPECIALIST.txt`
-
-Docelowe poziomy:
-
-- Gunnery IV
-- Controlled Bursts V
 - Jury Rigging III
 - Energy Weapon Rigging IV
 - Small Energy Turret V
@@ -106,3 +60,21 @@ Docelowe poziomy:
 - Large Energy Turret V
 - Large Pulse Laser Specialization IV
 - Large Beam Laser Specialization IV
+- Motion Prediction V
+- Sharpshooter V
+
+## Zależności / zalecane plany
+
+- 10 COMBAT - Damage Mods & Weapon Fitting
+- 50 WEAPON - Turret Support
+- 00 CORE - Engineering, Capacitor & Rigging
+
+## Uwagi
+
+- Plan obejmuje oba warianty tej rodziny (short/long). Jeśli corp chce ultra-minimalizm SP, można z PLAN.md zrobić dwa warianty doktrynalne.
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

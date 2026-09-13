@@ -2,17 +2,13 @@
 
 **Kategoria:** HULL
 
-## Uwagi
+## Poziomy
 
-- Dodatkowo wymagany: wybrany racial Battleship V.
+### BASIC
 
-## Milestone'y
+Najniższy rozsądny poziom wejścia.
 
-### READY
-
-Używalny Black Ops.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -28,9 +24,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Dobry corp standard.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -44,11 +40,11 @@ Docelowe poziomy:
 - Spaceship Command V
 - Black Ops IV
 
-### SPECIALIST
+### IMPROVED
 
-Dedicated specialist.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -60,4 +56,14 @@ Docelowe poziomy:
 - Jump Drive Operation V
 - Jump Drive Calibration IV
 - Spaceship Command V
-- Black Ops V
+- Black Ops IV
+
+## Uwagi
+
+- Dodatkowo wymagany: wybrany racial Battleship V.
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

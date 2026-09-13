@@ -2,17 +2,13 @@
 
 **Kategoria:** HULL
 
-## Uwagi
+## Poziomy
 
-- Aktualna klasa widoczna w danych 2026; wymagania generic skill: DI V, JFC IV, JDC III, Capital Ships IV.
+### BASIC
 
-## Milestone'y
+Najniższy rozsądny poziom wejścia.
 
-### READY
-
-Nowa klasa Command Carriers na używalnym poziomie.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -30,9 +26,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Dobry Command Carrier.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -48,11 +44,11 @@ Docelowe poziomy:
 - Capital Ships IV
 - Command Carriers IV
 
-### SPECIALIST
+### IMPROVED
 
-Dedicated Command Carrier pilot.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -62,8 +58,18 @@ Docelowe poziomy:
 - Navigation V
 - Warp Drive Operation V
 - Jump Drive Operation V
-- Jump Drive Calibration V
+- Jump Drive Calibration III
 - Jump Fuel Conservation IV
 - Advanced Spaceship Command V
 - Capital Ships IV
-- Command Carriers V
+- Command Carriers IV
+
+## Uwagi
+
+- Aktualna klasa widoczna w danych 2026; wymagania generic skill: DI V, JFC IV, JDC III, Capital Ships IV.
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

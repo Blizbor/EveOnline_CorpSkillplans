@@ -2,49 +2,74 @@
 
 **Kategoria:** TANK
 
-## Zależności / zalecane plany
+## Poziomy
 
-- 20 TANK - Armor Core
+### BASIC
 
-## Milestone'y
+Najniższy rozsądny poziom wejścia.
 
-### READY
-
-Aktywny armor tank działa sensownie.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
 - Mechanics IV
-- Repair Systems III
+- Hull Upgrades IV
+- EM Armor Compensation III
+- Explosive Armor Compensation III
+- Kinetic Armor Compensation III
+- Thermal Armor Compensation III
 - Jury Rigging III
 - Armor Rigging II
+- Repair Systems III
 
 ### STANDARD
 
-T2 medium/large rep progression i dobry standard aktywnego tanku.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
 - Mechanics IV
-- Repair Systems IV
+- Hull Upgrades V
+- EM Armor Compensation IV
+- Explosive Armor Compensation IV
+- Kinetic Armor Compensation IV
+- Thermal Armor Compensation IV
 - Jury Rigging III
 - Armor Rigging III
+- Repair Systems IV
 - Resistance Phasing III
 
-### SPECIALIST
+### IMPROVED
 
-Active-tank specialist / capital prerequisites.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
 - Mechanics IV
-- Repair Systems V
+- Hull Upgrades V
+- EM Armor Compensation IV
+- Explosive Armor Compensation IV
+- Kinetic Armor Compensation IV
+- Thermal Armor Compensation IV
 - Jury Rigging III
 - Armor Rigging IV
+- Repair Systems IV
 - Resistance Phasing IV
+
+## Zależności / zalecane plany
+
+- 00 CORE - Engineering, Capacitor & Rigging
+
+## Uwagi
+
+- Dawny plan 20 Armor Core jest w całości wbudowany w ten plan.
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

@@ -2,17 +2,13 @@
 
 **Kategoria:** HULL
 
-## Uwagi
+## Poziomy
 
-- Racial Carrier skill jest wspólną bramą dla carrierów, FAX i supercarrierów; role wymagają dalszych fighter/logi/support skills.
+### BASIC
 
-## Milestone'y
+Najniższy rozsądny poziom wejścia.
 
-### READY
-
-Carrier/FAX/supercarrier racial hull skill na używalnym poziomie.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -32,9 +28,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Dobry capital hull/jump standard.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -52,11 +48,11 @@ Docelowe poziomy:
 - Jump Fuel Conservation IV
 - Gallente Carrier IV
 
-### SPECIALIST
+### IMPROVED
 
-Dedicated carrier-family pilot.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -70,6 +66,16 @@ Docelowe poziomy:
 - Navigation V
 - Warp Drive Operation V
 - Jump Drive Operation V
-- Jump Drive Calibration V
-- Jump Fuel Conservation V
-- Gallente Carrier V
+- Jump Drive Calibration IV
+- Jump Fuel Conservation IV
+- Gallente Carrier IV
+
+## Uwagi
+
+- Racial Carrier skill jest wspólną bramą dla carrierów, FAX i supercarrierów; role wymagają dalszych fighter/logi/support skills.
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

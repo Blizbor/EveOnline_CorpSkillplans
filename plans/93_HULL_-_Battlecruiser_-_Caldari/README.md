@@ -2,13 +2,13 @@
 
 **Kategoria:** HULL
 
-## Milestone'y
+## Poziomy
 
-### READY
+### BASIC
 
-T1 battlecruisers.
+Najniższy rozsądny poziom wejścia.
 
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -20,9 +20,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Dobry T1/faction/attack BC.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -32,11 +32,11 @@ Docelowe poziomy:
 - Caldari Cruiser III
 - Caldari Battlecruiser IV
 
-### SPECIALIST
+### IMPROVED
 
-Command Ships gateway + max hull bonus.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -45,3 +45,9 @@ Docelowe poziomy:
 - Caldari Destroyer III
 - Caldari Cruiser III
 - Caldari Battlecruiser V
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

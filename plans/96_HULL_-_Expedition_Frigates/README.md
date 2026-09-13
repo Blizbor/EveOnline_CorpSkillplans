@@ -2,13 +2,13 @@
 
 **Kategoria:** HULL
 
-## Milestone'y
+## Poziomy
 
-### READY
+### BASIC
 
-Prospect/Endurance-ready.
+Najniższy rozsądny poziom wejścia.
 
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -22,9 +22,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Dobry T2 mining frigate.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -36,11 +36,11 @@ Docelowe poziomy:
 - Mining Frigate V
 - Expedition Frigates IV
 
-### SPECIALIST
+### IMPROVED
 
-Dedicated Expedition Frigate pilot.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -50,4 +50,10 @@ Docelowe poziomy:
 - Industry V
 - Spaceship Command III
 - Mining Frigate V
-- Expedition Frigates V
+- Expedition Frigates IV
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

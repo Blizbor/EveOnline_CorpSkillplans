@@ -2,17 +2,13 @@
 
 **Kategoria:** HULL
 
-## Uwagi
+## Poziomy
 
-- Plan obejmuje skill hulla oraz wszystkie cztery subsystem skills; broń/tank nadal dobierasz z sekcji 20-74.
+### BASIC
 
-## Milestone'y
+Najniższy rozsądny poziom wejścia.
 
-### READY
-
-T3C usable bez dziur na subsystemach.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -32,9 +28,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Dobry T3C standard.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -52,11 +48,11 @@ Docelowe poziomy:
 - Gallente Offensive Systems IV
 - Gallente Propulsion Systems IV
 
-### SPECIALIST
+### IMPROVED
 
-Maksymalny hull + subsystem skills.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -68,8 +64,18 @@ Docelowe poziomy:
 - Gunnery V
 - Drones III
 - Navigation V
-- Gallente Strategic Cruiser V
-- Gallente Defensive Systems V
-- Gallente Core Systems V
-- Gallente Offensive Systems V
-- Gallente Propulsion Systems V
+- Gallente Strategic Cruiser IV
+- Gallente Defensive Systems IV
+- Gallente Core Systems IV
+- Gallente Offensive Systems IV
+- Gallente Propulsion Systems IV
+
+## Uwagi
+
+- Plan obejmuje skill hulla oraz wszystkie cztery subsystem skills; broń/tank nadal dobierasz z sekcji 20-74.
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

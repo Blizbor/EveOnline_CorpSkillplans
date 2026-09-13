@@ -2,21 +2,13 @@
 
 **Kategoria:** TANK
 
-## Zależności / zalecane plany
+## Poziomy
 
-- 30 TANK - Shield Core
+### BASIC
 
-## Uwagi
+Najniższy rozsądny poziom wejścia.
 
-- To skill Shield Compensation (booster cap), nie cztery racial Shield Compensation skills dla passive amplifiers.
-
-## Milestone'y
-
-### READY
-
-Mniejsze zużycie capa przez shield boostery.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -24,20 +16,34 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Dobry poziom dla aktywnego shield tanku.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
 - Shield Compensation IV
 
-### SPECIALIST
+### IMPROVED
 
-Active shield specialist.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
-- Shield Compensation V
+- Shield Compensation IV
+
+## Zależności / zalecane plany
+
+- 30 TANK - Shield Passive/Buffer
+
+## Uwagi
+
+- Shield Compensation oznacza tu skill zmniejszający cap shield boostera.
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

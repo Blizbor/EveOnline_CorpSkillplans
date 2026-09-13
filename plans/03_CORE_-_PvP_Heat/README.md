@@ -2,13 +2,13 @@
 
 **Kategoria:** CORE
 
-## Milestone'y
+## Poziomy
 
-### READY
+### BASIC
 
-Pilot umie bezpiecznie korzystać z overheatu i napraw w terenie.
+Najniższy rozsądny poziom wejścia.
 
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -19,9 +19,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Corp PvP standard.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -31,16 +31,22 @@ Docelowe poziomy:
 - Nanite Operation III
 - Nanite Interfacing III
 
-### SPECIALIST
+### IMPROVED
 
-Maksymalizacja overheatu bez przepalania SP na mało opłacalne V paste-skilli.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
 - Science IV
-- Thermodynamics V
+- Thermodynamics IV
 - Mechanics IV
 - Nanite Operation IV
 - Nanite Interfacing IV
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

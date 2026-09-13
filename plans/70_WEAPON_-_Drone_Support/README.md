@@ -1,0 +1,67 @@
+# 70 WEAPON - Drone Support
+
+**Kategoria:** WEAPON
+
+## Poziomy
+
+### BASIC
+
+Najniższy rozsądny poziom wejścia.
+
+Import: [`BASIC.txt`](BASIC.txt)
+
+Docelowe poziomy:
+
+- Drones V
+- Drone Avionics III
+- Drone Interfacing III
+- Drone Navigation III
+- Drone Durability III
+- Drone Sharpshooting III
+- Jury Rigging III
+- Drones Rigging II
+
+### STANDARD
+
+Poziom zalecany do regularnego używania.
+
+Import: [`STANDARD.txt`](STANDARD.txt)
+
+Docelowe poziomy:
+
+- Drones V
+- Drone Avionics IV
+- Drone Interfacing IV
+- Drone Navigation IV
+- Drone Durability IV
+- Drone Sharpshooting IV
+- Jury Rigging III
+- Drones Rigging III
+
+### IMPROVED
+
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
+
+Import: [`IMPROVED.txt`](IMPROVED.txt)
+
+Docelowe poziomy:
+
+- Drones V
+- Drone Avionics IV
+- Drone Interfacing IV
+- Drone Navigation IV
+- Drone Durability IV
+- Drone Sharpshooting IV
+- Jury Rigging III
+- Drones Rigging IV
+
+## Zależności / zalecane plany
+
+- 10 COMBAT - Damage Mods & Weapon Fitting
+- 00 CORE - Engineering, Capacitor & Rigging
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

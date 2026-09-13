@@ -2,13 +2,13 @@
 
 **Kategoria:** CORE
 
-## Milestone'y
+## Poziomy
 
-### READY
+### BASIC
 
-Sprawny AB/MWD, sensowna prędkość, agility i warp.
+Najniższy rozsądny poziom wejścia.
 
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -23,14 +23,14 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Dobry pilot subcap; T2 AB/MWD i mocne ogólne bonusy.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
-- Spaceship Command V
-- Navigation V
+- Spaceship Command IV
+- Navigation IV
 - Evasive Maneuvering IV
 - Warp Drive Operation IV
 - Afterburner IV
@@ -38,19 +38,25 @@ Docelowe poziomy:
 - High Speed Maneuvering IV
 - Fuel Conservation IV
 
-### SPECIALIST
+### IMPROVED
 
-Skirmish/tackle/capital prerequisites lub maksymalizacja ruchu.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
 - Spaceship Command V
-- Navigation V
-- Evasive Maneuvering V
-- Warp Drive Operation V
-- Afterburner V
-- Acceleration Control V
-- High Speed Maneuvering V
-- Fuel Conservation V
+- Navigation IV
+- Evasive Maneuvering IV
+- Warp Drive Operation IV
+- Afterburner IV
+- Acceleration Control IV
+- High Speed Maneuvering IV
+- Fuel Conservation IV
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

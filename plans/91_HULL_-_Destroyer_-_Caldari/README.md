@@ -2,17 +2,13 @@
 
 **Kategoria:** HULL
 
-## Uwagi
+## Poziomy
 
-- Caldari Tactical Destroyer V nie jest wciskany do corp standard; trenuj V tylko jako dedicated T3D specialist.
+### BASIC
 
-## Milestone'y
+T1 Destroyer III — dostęp/progresja.
 
-### READY
-
-T1 destroyers.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -22,9 +18,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Dobry T1 destroyer.
+T1 Destroyer IV — normalne używanie.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -32,36 +28,11 @@ Docelowe poziomy:
 - Caldari Frigate III
 - Caldari Destroyer IV
 
-### T2/T3 GATEWAY
+### IMPROVED
 
-Brama do Interdictor/Command Destroyer/Tactical Destroyer.
+Destroyer V + Tactical Destroyer IV — gateway do T2/T3 i mocny T3D.
 
-Plik importowy: `T2-T3_GATEWAY.txt`
-
-Docelowe poziomy:
-
-- Spaceship Command I
-- Caldari Frigate III
-- Caldari Destroyer V
-
-### T3D READY
-
-Używalny Tactical Destroyer.
-
-Plik importowy: `T3D_READY.txt`
-
-Docelowe poziomy:
-
-- Spaceship Command I
-- Caldari Frigate III
-- Caldari Destroyer V
-- Caldari Tactical Destroyer III
-
-### T3D STANDARD
-
-Dobry Tactical Destroyer. Level V pozostaje opcjonalnym specjalistycznym finiszem.
-
-Plik importowy: `T3D_STANDARD.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -69,3 +40,13 @@ Docelowe poziomy:
 - Caldari Frigate III
 - Caldari Destroyer V
 - Caldari Tactical Destroyer IV
+
+## Uwagi
+
+- Caldari Tactical Destroyer V nie jest wciskany do corp standard; trenuj V tylko jako dedicated T3D specialist.
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

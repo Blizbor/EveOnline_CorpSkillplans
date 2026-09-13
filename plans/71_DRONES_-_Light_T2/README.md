@@ -2,17 +2,13 @@
 
 **Kategoria:** WEAPON
 
-## Zależności / zalecane plany
+## Poziomy
 
-- 70 WEAPON - Drone Core
+### BASIC
 
-## Milestone'y
+Najniższy rozsądny poziom wejścia.
 
-### READY
-
-Mocne T1/faction light drones.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -21,9 +17,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-T2 light drones wszystkich czterech ras.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -34,11 +30,11 @@ Docelowe poziomy:
 - Gallente Drone Specialization II
 - Minmatar Drone Specialization II
 
-### SPECIALIST
+### IMPROVED
 
-Długoterminowy sensowny cap: racial specs IV.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -48,3 +44,13 @@ Docelowe poziomy:
 - Caldari Drone Specialization IV
 - Gallente Drone Specialization IV
 - Minmatar Drone Specialization IV
+
+## Zależności / zalecane plany
+
+- 70 WEAPON - Drone Support
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

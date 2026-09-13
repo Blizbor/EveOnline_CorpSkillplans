@@ -1,6 +1,7 @@
 {
-  "plan_templates": 100,
-  "queue_txt_files": 311,
-  "markdown_files": 104,
-  "total_files_before_inventory": 417
+  "plan_count": 89,
+  "strategy_documents": 12,
+  "plan_readmes": 89,
+  "queue_files": 267,
+  "level5_entries_remaining_in_improved": 226
 }

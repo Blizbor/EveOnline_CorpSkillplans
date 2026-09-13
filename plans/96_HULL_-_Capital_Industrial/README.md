@@ -2,17 +2,13 @@
 
 **Kategoria:** HULL
 
-## Uwagi
+## Poziomy
 
-- Jump-drive support nie jest tu maksowany; do realnego deploymentu dołóż jump skills jak w 95 Jump Freighter / capital doctrine.
+### BASIC
 
-## Milestone'y
+Najniższy rozsądny poziom wejścia.
 
-### READY
-
-Rorqual hull access + Industrial Reconfiguration prerequisite chain.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -32,9 +28,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Dobry Rorqual hull skill.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -52,11 +48,11 @@ Docelowe poziomy:
 - Industrial Reconfiguration I
 - Capital Industrial Ships IV
 
-### SPECIALIST
+### IMPROVED
 
-Dedicated Rorqual pilot.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -72,4 +68,14 @@ Docelowe poziomy:
 - Mass Production V
 - Advanced Mass Production IV
 - Industrial Reconfiguration I
-- Capital Industrial Ships V
+- Capital Industrial Ships IV
+
+## Uwagi
+
+- Jump-drive support nie jest tu maksowany; do realnego deploymentu dołóż jump skills jak w 95 Jump Freighter / capital doctrine.
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

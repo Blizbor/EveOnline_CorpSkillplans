@@ -2,17 +2,13 @@
 
 **Kategoria:** HULL
 
-## Uwagi
+## Poziomy
 
-- Plan obejmuje skill hulla oraz wszystkie cztery subsystem skills; broń/tank nadal dobierasz z sekcji 20-74.
+### BASIC
 
-## Milestone'y
+Najniższy rozsądny poziom wejścia.
 
-### READY
-
-T3C usable bez dziur na subsystemach.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -32,9 +28,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Dobry T3C standard.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -52,11 +48,11 @@ Docelowe poziomy:
 - Minmatar Offensive Systems IV
 - Minmatar Propulsion Systems IV
 
-### SPECIALIST
+### IMPROVED
 
-Maksymalny hull + subsystem skills.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -68,8 +64,18 @@ Docelowe poziomy:
 - Gunnery V
 - Missile Launcher Operation III
 - Navigation V
-- Minmatar Strategic Cruiser V
-- Minmatar Defensive Systems V
-- Minmatar Core Systems V
-- Minmatar Offensive Systems V
-- Minmatar Propulsion Systems V
+- Minmatar Strategic Cruiser IV
+- Minmatar Defensive Systems IV
+- Minmatar Core Systems IV
+- Minmatar Offensive Systems IV
+- Minmatar Propulsion Systems IV
+
+## Uwagi
+
+- Plan obejmuje skill hulla oraz wszystkie cztery subsystem skills; broń/tank nadal dobierasz z sekcji 20-74.
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

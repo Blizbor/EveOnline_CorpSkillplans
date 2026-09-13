@@ -1,0 +1,230 @@
+# AUDIT — Level V remaining in IMPROVED
+
+Te V pozostały po aktualizacji. Powinny wynikać z prerequisites/progresji albo świadomego wyjątku roli.
+
+- `01_CORE_-_Navigation` — Spaceship Command V
+- `02_CORE_-_Targeting` — Target Management V
+- `10_COMBAT_-_Damage_Mods_and_Weapon_Fitting` — Weapon Upgrades V
+- `21_TANK_-_Armor_Buffer` — Hull Upgrades V
+- `22_TANK_-_Armor_Active` — Hull Upgrades V
+- `51_WEAPON_-_Hybrid` — Gunnery V
+- `51_WEAPON_-_Hybrid` — Small Hybrid Turret V
+- `51_WEAPON_-_Hybrid` — Medium Hybrid Turret V
+- `51_WEAPON_-_Hybrid` — Large Hybrid Turret V
+- `51_WEAPON_-_Hybrid` — Motion Prediction V
+- `51_WEAPON_-_Hybrid` — Sharpshooter V
+- `52_WEAPON_-_Projectile` — Gunnery V
+- `52_WEAPON_-_Projectile` — Small Projectile Turret V
+- `52_WEAPON_-_Projectile` — Medium Projectile Turret V
+- `52_WEAPON_-_Projectile` — Large Projectile Turret V
+- `52_WEAPON_-_Projectile` — Motion Prediction V
+- `52_WEAPON_-_Projectile` — Sharpshooter V
+- `53_WEAPON_-_Energy` — Gunnery V
+- `53_WEAPON_-_Energy` — Small Energy Turret V
+- `53_WEAPON_-_Energy` — Medium Energy Turret V
+- `53_WEAPON_-_Energy` — Large Energy Turret V
+- `53_WEAPON_-_Energy` — Motion Prediction V
+- `53_WEAPON_-_Energy` — Sharpshooter V
+- `61_MISSILE_-_Rockets_and_Light` — Missile Launcher Operation V
+- `61_MISSILE_-_Rockets_and_Light` — Rockets V
+- `61_MISSILE_-_Rockets_and_Light` — Light Missiles V
+- `62_MISSILE_-_HAM_and_Heavy` — Missile Launcher Operation V
+- `62_MISSILE_-_HAM_and_Heavy` — Heavy Assault Missiles V
+- `62_MISSILE_-_HAM_and_Heavy` — Heavy Missiles V
+- `63_MISSILE_-_Torpedo_and_Cruise` — Missile Launcher Operation V
+- `63_MISSILE_-_Torpedo_and_Cruise` — Torpedoes V
+- `63_MISSILE_-_Torpedo_and_Cruise` — Cruise Missiles V
+- `70_WEAPON_-_Drone_Support` — Drones V
+- `71_DRONES_-_Light_T2` — Drones V
+- `71_DRONES_-_Light_T2` — Light Drone Operation V
+- `72_DRONES_-_Medium_T2` — Drones V
+- `72_DRONES_-_Medium_T2` — Medium Drone Operation V
+- `73_DRONES_-_Heavy_and_Sentry` — Drones V
+- `73_DRONES_-_Heavy_and_Sentry` — Heavy Drone Operation V
+- `73_DRONES_-_Heavy_and_Sentry` — Sentry Drone Interfacing V
+- `80_SCOUT_-_Signature_Combat_and_Covert` — Electronics Upgrades V
+- `83_CYNO_-_Industrial_Hard_and_Covert` — CPU Management V
+- `83_CYNO_-_Industrial_Hard_and_Covert` — Cynosural Field Theory V
+- `90_HULL_-_Frigate_-_Amarr` — Amarr Frigate V
+- `90_HULL_-_Frigate_-_Caldari` — Caldari Frigate V
+- `90_HULL_-_Frigate_-_Gallente` — Gallente Frigate V
+- `90_HULL_-_Frigate_-_Minmatar` — Minmatar Frigate V
+- `91_HULL_-_Destroyer_-_Amarr` — Amarr Destroyer V
+- `91_HULL_-_Destroyer_-_Caldari` — Caldari Destroyer V
+- `91_HULL_-_Destroyer_-_Gallente` — Gallente Destroyer V
+- `91_HULL_-_Destroyer_-_Minmatar` — Minmatar Destroyer V
+- `92_HULL_-_Cruiser_-_Amarr` — Amarr Cruiser V
+- `92_HULL_-_Cruiser_-_Caldari` — Caldari Cruiser V
+- `92_HULL_-_Cruiser_-_Gallente` — Gallente Cruiser V
+- `92_HULL_-_Cruiser_-_Minmatar` — Minmatar Cruiser V
+- `93_HULL_-_Battlecruiser_-_Amarr` — Amarr Battlecruiser V
+- `93_HULL_-_Battlecruiser_-_Caldari` — Caldari Battlecruiser V
+- `93_HULL_-_Battlecruiser_-_Gallente` — Gallente Battlecruiser V
+- `93_HULL_-_Battlecruiser_-_Minmatar` — Minmatar Battlecruiser V
+- `94_HULL_-_Battleship_-_Amarr` — Amarr Battleship V
+- `94_HULL_-_Battleship_-_Caldari` — Caldari Battleship V
+- `94_HULL_-_Battleship_-_Gallente` — Gallente Battleship V
+- `94_HULL_-_Battleship_-_Minmatar` — Minmatar Battleship V
+- `95_HULL_-_Freighter_-_Amarr` — Spaceship Command V
+- `95_HULL_-_Freighter_-_Amarr` — Advanced Spaceship Command V
+- `95_HULL_-_Freighter_-_Caldari` — Spaceship Command V
+- `95_HULL_-_Freighter_-_Caldari` — Advanced Spaceship Command V
+- `95_HULL_-_Freighter_-_Gallente` — Spaceship Command V
+- `95_HULL_-_Freighter_-_Gallente` — Advanced Spaceship Command V
+- `95_HULL_-_Freighter_-_Minmatar` — Spaceship Command V
+- `95_HULL_-_Freighter_-_Minmatar` — Advanced Spaceship Command V
+- `95_HULL_-_Hauler_-_Amarr` — Amarr Hauler V
+- `95_HULL_-_Hauler_-_Caldari` — Caldari Hauler V
+- `95_HULL_-_Hauler_-_Gallente` — Gallente Hauler V
+- `95_HULL_-_Hauler_-_Minmatar` — Minmatar Hauler V
+- `95_HULL_-_Jump_Freighter` — Industry V
+- `95_HULL_-_Jump_Freighter` — Spaceship Command V
+- `95_HULL_-_Jump_Freighter` — Science V
+- `95_HULL_-_Jump_Freighter` — Navigation V
+- `95_HULL_-_Jump_Freighter` — Warp Drive Operation V
+- `95_HULL_-_Jump_Freighter` — Jump Drive Operation V
+- `95_HULL_-_Transport_Ships` — Industry V
+- `96_HULL_-_Capital_Industrial` — Spaceship Command V
+- `96_HULL_-_Capital_Industrial` — Advanced Spaceship Command V
+- `96_HULL_-_Capital_Industrial` — Mining Foreman V
+- `96_HULL_-_Capital_Industrial` — Mass Production V
+- `96_HULL_-_Exhumers` — Astrogeology V
+- `96_HULL_-_Exhumers` — Industry V
+- `96_HULL_-_Exhumers` — Mining Barge V
+- `96_HULL_-_Expedition_Frigates` — Electronics Upgrades V
+- `96_HULL_-_Expedition_Frigates` — Industry V
+- `96_HULL_-_Expedition_Frigates` — Mining Frigate V
+- `96_HULL_-_Industrial_Command_Ships` — Spaceship Command V
+- `96_HULL_-_Industrial_Command_Ships` — Mining Foreman V
+- `96_HULL_-_Mining_Barge` — Industry V
+- `96_HULL_-_Mining_Barge` — Mining Barge V
+- `96_HULL_-_Mining_Destroyer` — Mining Destroyer V
+- `96_HULL_-_Mining_Frigate` — Mining Frigate V
+- `96_HULL_-_ORE_Freighter` — Spaceship Command V
+- `96_HULL_-_ORE_Freighter` — Advanced Spaceship Command V
+- `97_HULL_-_Assault_Frigates` — Mechanics V
+- `97_HULL_-_Assault_Frigates` — Power Grid Management V
+- `97_HULL_-_Black_Ops` — Science V
+- `97_HULL_-_Black_Ops` — Navigation V
+- `97_HULL_-_Black_Ops` — Warp Drive Operation V
+- `97_HULL_-_Black_Ops` — Jump Drive Operation V
+- `97_HULL_-_Black_Ops` — Spaceship Command V
+- `97_HULL_-_Command_Destroyers` — Leadership V
+- `97_HULL_-_Command_Destroyers` — Spaceship Command V
+- `97_HULL_-_Command_Ships` — Leadership V
+- `97_HULL_-_Command_Ships` — Spaceship Command V
+- `97_HULL_-_Electronic_Attack_Ships` — Long Range Targeting V
+- `97_HULL_-_Heavy_Assault_Cruisers` — Energy Grid Upgrades V
+- `97_HULL_-_Heavy_Assault_Cruisers` — Weapon Upgrades V
+- `97_HULL_-_Heavy_Assault_Cruisers` — Spaceship Command V
+- `97_HULL_-_Heavy_Interdiction_Cruisers` — Propulsion Jamming V
+- `97_HULL_-_Heavy_Interdiction_Cruisers` — Science V
+- `97_HULL_-_Heavy_Interdiction_Cruisers` — Power Grid Management V
+- `97_HULL_-_Heavy_Interdiction_Cruisers` — Spaceship Command V
+- `97_HULL_-_Interceptors` — Evasive Maneuvering V
+- `97_HULL_-_Interdictors` — Propulsion Jamming V
+- `97_HULL_-_Interdictors` — Science V
+- `97_HULL_-_Interdictors` — Power Grid Management V
+- `97_HULL_-_Logistics_Cruisers` — Signature Analysis V
+- `97_HULL_-_Logistics_Cruisers` — Long Range Targeting V
+- `97_HULL_-_Logistics_Cruisers` — Logistics Cruisers V
+- `97_HULL_-_Logistics_Frigates` — Signature Analysis V
+- `97_HULL_-_Logistics_Frigates` — Logistics Frigates V
+- `97_HULL_-_Marauders` — Energy Grid Upgrades V
+- `97_HULL_-_Marauders` — Spaceship Command V
+- `97_HULL_-_Marauders` — Advanced Weapon Upgrades V
+- `97_HULL_-_Recon_Ships` — Electronics Upgrades V
+- `97_HULL_-_Recon_Ships` — Spaceship Command V
+- `97_HULL_-_Recon_Ships` — Signature Analysis V
+- `98_HULL_-_Strategic_Cruiser_-_Legion` — Amarr Cruiser V
+- `98_HULL_-_Strategic_Cruiser_-_Legion` — Mechanics V
+- `98_HULL_-_Strategic_Cruiser_-_Legion` — Power Grid Management V
+- `98_HULL_-_Strategic_Cruiser_-_Legion` — Gunnery V
+- `98_HULL_-_Strategic_Cruiser_-_Legion` — Navigation V
+- `98_HULL_-_Strategic_Cruiser_-_Loki` — Minmatar Cruiser V
+- `98_HULL_-_Strategic_Cruiser_-_Loki` — Mechanics V
+- `98_HULL_-_Strategic_Cruiser_-_Loki` — Power Grid Management V
+- `98_HULL_-_Strategic_Cruiser_-_Loki` — Gunnery V
+- `98_HULL_-_Strategic_Cruiser_-_Loki` — Navigation V
+- `98_HULL_-_Strategic_Cruiser_-_Proteus` — Gallente Cruiser V
+- `98_HULL_-_Strategic_Cruiser_-_Proteus` — Mechanics V
+- `98_HULL_-_Strategic_Cruiser_-_Proteus` — Power Grid Management V
+- `98_HULL_-_Strategic_Cruiser_-_Proteus` — Gunnery V
+- `98_HULL_-_Strategic_Cruiser_-_Proteus` — Navigation V
+- `98_HULL_-_Strategic_Cruiser_-_Tengu` — Caldari Cruiser V
+- `98_HULL_-_Strategic_Cruiser_-_Tengu` — Shield Operation V
+- `98_HULL_-_Strategic_Cruiser_-_Tengu` — Power Grid Management V
+- `98_HULL_-_Strategic_Cruiser_-_Tengu` — Missile Launcher Operation V
+- `98_HULL_-_Strategic_Cruiser_-_Tengu` — Navigation V
+- `99_HULL_-_Carrier_-_Amarr` — Spaceship Command V
+- `99_HULL_-_Carrier_-_Amarr` — Advanced Spaceship Command V
+- `99_HULL_-_Carrier_-_Amarr` — Drones V
+- `99_HULL_-_Carrier_-_Amarr` — Drone Interfacing V
+- `99_HULL_-_Carrier_-_Amarr` — Science V
+- `99_HULL_-_Carrier_-_Amarr` — Navigation V
+- `99_HULL_-_Carrier_-_Amarr` — Warp Drive Operation V
+- `99_HULL_-_Carrier_-_Amarr` — Jump Drive Operation V
+- `99_HULL_-_Carrier_-_Caldari` — Spaceship Command V
+- `99_HULL_-_Carrier_-_Caldari` — Advanced Spaceship Command V
+- `99_HULL_-_Carrier_-_Caldari` — Drones V
+- `99_HULL_-_Carrier_-_Caldari` — Drone Interfacing V
+- `99_HULL_-_Carrier_-_Caldari` — Science V
+- `99_HULL_-_Carrier_-_Caldari` — Navigation V
+- `99_HULL_-_Carrier_-_Caldari` — Warp Drive Operation V
+- `99_HULL_-_Carrier_-_Caldari` — Jump Drive Operation V
+- `99_HULL_-_Carrier_-_Gallente` — Spaceship Command V
+- `99_HULL_-_Carrier_-_Gallente` — Advanced Spaceship Command V
+- `99_HULL_-_Carrier_-_Gallente` — Drones V
+- `99_HULL_-_Carrier_-_Gallente` — Drone Interfacing V
+- `99_HULL_-_Carrier_-_Gallente` — Science V
+- `99_HULL_-_Carrier_-_Gallente` — Navigation V
+- `99_HULL_-_Carrier_-_Gallente` — Warp Drive Operation V
+- `99_HULL_-_Carrier_-_Gallente` — Jump Drive Operation V
+- `99_HULL_-_Carrier_-_Minmatar` — Spaceship Command V
+- `99_HULL_-_Carrier_-_Minmatar` — Advanced Spaceship Command V
+- `99_HULL_-_Carrier_-_Minmatar` — Drones V
+- `99_HULL_-_Carrier_-_Minmatar` — Drone Interfacing V
+- `99_HULL_-_Carrier_-_Minmatar` — Science V
+- `99_HULL_-_Carrier_-_Minmatar` — Navigation V
+- `99_HULL_-_Carrier_-_Minmatar` — Warp Drive Operation V
+- `99_HULL_-_Carrier_-_Minmatar` — Jump Drive Operation V
+- `99_HULL_-_Command_Carriers` — Drones V
+- `99_HULL_-_Command_Carriers` — Drone Interfacing V
+- `99_HULL_-_Command_Carriers` — Science V
+- `99_HULL_-_Command_Carriers` — Navigation V
+- `99_HULL_-_Command_Carriers` — Warp Drive Operation V
+- `99_HULL_-_Command_Carriers` — Jump Drive Operation V
+- `99_HULL_-_Command_Carriers` — Advanced Spaceship Command V
+- `99_HULL_-_Dreadnought_-_Amarr` — Spaceship Command V
+- `99_HULL_-_Dreadnought_-_Amarr` — Advanced Spaceship Command V
+- `99_HULL_-_Dreadnought_-_Amarr` — Advanced Weapon Upgrades V
+- `99_HULL_-_Dreadnought_-_Amarr` — Science V
+- `99_HULL_-_Dreadnought_-_Amarr` — Navigation V
+- `99_HULL_-_Dreadnought_-_Amarr` — Warp Drive Operation V
+- `99_HULL_-_Dreadnought_-_Amarr` — Jump Drive Operation V
+- `99_HULL_-_Dreadnought_-_Amarr` — Amarr Dreadnought V
+- `99_HULL_-_Dreadnought_-_Caldari` — Spaceship Command V
+- `99_HULL_-_Dreadnought_-_Caldari` — Advanced Spaceship Command V
+- `99_HULL_-_Dreadnought_-_Caldari` — Advanced Weapon Upgrades V
+- `99_HULL_-_Dreadnought_-_Caldari` — Science V
+- `99_HULL_-_Dreadnought_-_Caldari` — Navigation V
+- `99_HULL_-_Dreadnought_-_Caldari` — Warp Drive Operation V
+- `99_HULL_-_Dreadnought_-_Caldari` — Jump Drive Operation V
+- `99_HULL_-_Dreadnought_-_Caldari` — Caldari Dreadnought V
+- `99_HULL_-_Dreadnought_-_Gallente` — Spaceship Command V
+- `99_HULL_-_Dreadnought_-_Gallente` — Advanced Spaceship Command V
+- `99_HULL_-_Dreadnought_-_Gallente` — Advanced Weapon Upgrades V
+- `99_HULL_-_Dreadnought_-_Gallente` — Science V
+- `99_HULL_-_Dreadnought_-_Gallente` — Navigation V
+- `99_HULL_-_Dreadnought_-_Gallente` — Warp Drive Operation V
+- `99_HULL_-_Dreadnought_-_Gallente` — Jump Drive Operation V
+- `99_HULL_-_Dreadnought_-_Gallente` — Gallente Dreadnought V
+- `99_HULL_-_Dreadnought_-_Minmatar` — Spaceship Command V
+- `99_HULL_-_Dreadnought_-_Minmatar` — Advanced Spaceship Command V
+- `99_HULL_-_Dreadnought_-_Minmatar` — Advanced Weapon Upgrades V
+- `99_HULL_-_Dreadnought_-_Minmatar` — Science V
+- `99_HULL_-_Dreadnought_-_Minmatar` — Navigation V
+- `99_HULL_-_Dreadnought_-_Minmatar` — Warp Drive Operation V
+- `99_HULL_-_Dreadnought_-_Minmatar` — Jump Drive Operation V
+- `99_HULL_-_Dreadnought_-_Minmatar` — Minmatar Dreadnought V
+- `99_HULL_-_Lancer_Dreadnoughts` — Advanced Spaceship Command V

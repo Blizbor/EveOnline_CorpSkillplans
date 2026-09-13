@@ -2,13 +2,13 @@
 
 **Kategoria:** HULL
 
-## Milestone'y
+## Poziomy
 
-### READY
+### BASIC
 
-Dostęp do racial freighter.
+Najniższy rozsądny poziom wejścia.
 
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -19,9 +19,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Dobry freighter + Jump Freighter prerequisite.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -30,15 +30,21 @@ Docelowe poziomy:
 - Amarr Hauler III
 - Amarr Freighter IV
 
-### SPECIALIST
+### IMPROVED
 
-Dedicated freighter pilot.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
 - Spaceship Command V
 - Advanced Spaceship Command V
 - Amarr Hauler III
-- Amarr Freighter V
+- Amarr Freighter IV
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

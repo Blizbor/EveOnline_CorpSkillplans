@@ -1,102 +1,93 @@
-# Index — 100 plan templates
+# Index — 89 corp skill plans
 
-- **00 CORE - Engineering & Capacitor** — READY | STANDARD | SPECIALIST
-- **01 CORE - Navigation** — READY | STANDARD | SPECIALIST
-- **02 CORE - Targeting** — READY | STANDARD | SPECIALIST
-- **03 CORE - PvP Heat** — READY | STANDARD | SPECIALIST
-- **04 CORE - Rigging Foundation** — READY | STANDARD
-- **10 COMBAT - Damage Mods & Weapon Fitting** — READY | STANDARD | SPECIALIST
-- **20 TANK - Armor Core** — READY | STANDARD | SPECIALIST
-- **21 TANK - Armor Buffer** — READY | STANDARD | SPECIALIST
-- **22 TANK - Armor Active** — READY | STANDARD | SPECIALIST
-- **30 TANK - Shield Core** — READY | STANDARD | SPECIALIST
-- **31 TANK - Shield Active** — READY | STANDARD | SPECIALIST
-- **50 WEAPON - Turret Core** — READY | STANDARD | SPECIALIST
-- **51 WEAPON - Hybrid** — SMALL READY | SMALL T2 | MEDIUM T2 | LARGE T2 | SPECIALIST
-- **52 WEAPON - Projectile** — SMALL READY | SMALL T2 | MEDIUM T2 | LARGE T2 | SPECIALIST
-- **53 WEAPON - Energy** — SMALL READY | SMALL T2 | MEDIUM T2 | LARGE T2 | SPECIALIST
-- **60 WEAPON - Missile Core** — READY | STANDARD | SPECIALIST
-- **61 MISSILE - Rockets & Light** — READY | STANDARD | SPECIALIST
-- **62 MISSILE - HAM & Heavy** — READY | STANDARD | SPECIALIST
-- **63 MISSILE - Torpedo & Cruise** — READY | STANDARD | SPECIALIST
-- **70 WEAPON - Drone Core** — READY | STANDARD | SPECIALIST
-- **71 DRONES - Light T2** — READY | STANDARD | SPECIALIST
-- **72 DRONES - Medium T2** — READY | STANDARD | SPECIALIST
-- **73 DRONES - Heavy** — READY | STANDARD | SPECIALIST
-- **74 DRONES - Sentry** — READY | STANDARD | SPECIALIST
-- **80 SCOUT - Signature Scanning** — READY | STANDARD | SPECIALIST
-- **81 SCOUT - Combat Probing** — READY | STANDARD | SPECIALIST
-- **82 SCOUT - Covert Operations** — READY | STANDARD | SPECIALIST
-- **83 CYNO - Industrial** — READY | STANDARD | SPECIALIST
-- **84 CYNO - Hard** — READY | STANDARD | SPECIALIST
-- **85 CYNO - Covert** — READY
-- **90 HULL - Frigate - Amarr** — READY | STANDARD | SPECIALIST
-- **91 HULL - Destroyer - Amarr** — READY | STANDARD | T2/T3 GATEWAY | T3D READY | T3D STANDARD
-- **92 HULL - Cruiser - Amarr** — READY | STANDARD | SPECIALIST
-- **93 HULL - Battlecruiser - Amarr** — READY | STANDARD | SPECIALIST
-- **94 HULL - Battleship - Amarr** — READY | STANDARD | SPECIALIST
-- **90 HULL - Frigate - Caldari** — READY | STANDARD | SPECIALIST
-- **91 HULL - Destroyer - Caldari** — READY | STANDARD | T2/T3 GATEWAY | T3D READY | T3D STANDARD
-- **92 HULL - Cruiser - Caldari** — READY | STANDARD | SPECIALIST
-- **93 HULL - Battlecruiser - Caldari** — READY | STANDARD | SPECIALIST
-- **94 HULL - Battleship - Caldari** — READY | STANDARD | SPECIALIST
-- **90 HULL - Frigate - Gallente** — READY | STANDARD | SPECIALIST
-- **91 HULL - Destroyer - Gallente** — READY | STANDARD | T2/T3 GATEWAY | T3D READY | T3D STANDARD
-- **92 HULL - Cruiser - Gallente** — READY | STANDARD | SPECIALIST
-- **93 HULL - Battlecruiser - Gallente** — READY | STANDARD | SPECIALIST
-- **94 HULL - Battleship - Gallente** — READY | STANDARD | SPECIALIST
-- **90 HULL - Frigate - Minmatar** — READY | STANDARD | SPECIALIST
-- **91 HULL - Destroyer - Minmatar** — READY | STANDARD | T2/T3 GATEWAY | T3D READY | T3D STANDARD
-- **92 HULL - Cruiser - Minmatar** — READY | STANDARD | SPECIALIST
-- **93 HULL - Battlecruiser - Minmatar** — READY | STANDARD | SPECIALIST
-- **94 HULL - Battleship - Minmatar** — READY | STANDARD | SPECIALIST
-- **95 HULL - Hauler - Amarr** — READY | STANDARD | SPECIALIST
-- **95 HULL - Hauler - Caldari** — READY | STANDARD | SPECIALIST
-- **95 HULL - Hauler - Gallente** — READY | STANDARD | SPECIALIST
-- **95 HULL - Hauler - Minmatar** — READY | STANDARD | SPECIALIST
-- **95 HULL - Transport Ships** — READY | STANDARD | SPECIALIST
-- **95 HULL - Freighter - Amarr** — READY | STANDARD | SPECIALIST
-- **95 HULL - Freighter - Caldari** — READY | STANDARD | SPECIALIST
-- **95 HULL - Freighter - Gallente** — READY | STANDARD | SPECIALIST
-- **95 HULL - Freighter - Minmatar** — READY | STANDARD | SPECIALIST
-- **95 HULL - Jump Freighter** — READY | STANDARD | SPECIALIST
-- **96 HULL - Mining Frigate** — READY | STANDARD | SPECIALIST
-- **96 HULL - Mining Destroyer** — READY | STANDARD | SPECIALIST
-- **96 HULL - Expedition Frigates** — READY | STANDARD | SPECIALIST
-- **96 HULL - Mining Barge** — READY | STANDARD | SPECIALIST
-- **96 HULL - Exhumers** — READY | STANDARD | SPECIALIST
-- **96 HULL - ORE Hauler** — READY | STANDARD | SPECIALIST
-- **96 HULL - Industrial Command Ships** — READY | STANDARD | SPECIALIST
-- **96 HULL - ORE Freighter** — READY | STANDARD | SPECIALIST
-- **96 HULL - Capital Industrial** — READY | STANDARD | SPECIALIST
-- **97 HULL - Assault Frigates** — READY | STANDARD | SPECIALIST
-- **97 HULL - Interceptors** — READY | STANDARD | SPECIALIST
-- **97 HULL - Electronic Attack Ships** — READY | STANDARD | SPECIALIST
-- **97 HULL - Logistics Frigates** — READY | STANDARD | SPECIALIST
-- **97 HULL - Interdictors** — READY | STANDARD | SPECIALIST
-- **97 HULL - Command Destroyers** — READY | STANDARD | SPECIALIST
-- **97 HULL - Heavy Assault Cruisers** — READY | STANDARD | SPECIALIST
-- **97 HULL - Logistics Cruisers** — READY | STANDARD | SPECIALIST
-- **97 HULL - Recon Ships** — READY | STANDARD | SPECIALIST
-- **97 HULL - Heavy Interdiction Cruisers** — READY | STANDARD | SPECIALIST
-- **97 HULL - Command Ships** — READY | STANDARD | SPECIALIST
-- **97 HULL - Marauders** — READY | STANDARD | SPECIALIST
-- **97 HULL - Black Ops** — READY | STANDARD | SPECIALIST
-- **98 HULL - Strategic Cruiser - Legion** — READY | STANDARD | SPECIALIST
-- **98 HULL - Strategic Cruiser - Tengu** — READY | STANDARD | SPECIALIST
-- **98 HULL - Strategic Cruiser - Proteus** — READY | STANDARD | SPECIALIST
-- **98 HULL - Strategic Cruiser - Loki** — READY | STANDARD | SPECIALIST
-- **99 HULL - Dreadnought - Amarr** — READY | STANDARD | SPECIALIST
-- **99 HULL - Dreadnought - Caldari** — READY | STANDARD | SPECIALIST
-- **99 HULL - Dreadnought - Gallente** — READY | STANDARD | SPECIALIST
-- **99 HULL - Dreadnought - Minmatar** — READY | STANDARD | SPECIALIST
-- **99 HULL - Carrier - Amarr** — READY | STANDARD | SPECIALIST
-- **99 HULL - Carrier - Caldari** — READY | STANDARD | SPECIALIST
-- **99 HULL - Carrier - Gallente** — READY | STANDARD | SPECIALIST
-- **99 HULL - Carrier - Minmatar** — READY | STANDARD | SPECIALIST
-- **99 HULL - Titan - Amarr** — READY | STANDARD | SPECIALIST
-- **99 HULL - Titan - Caldari** — READY | STANDARD | SPECIALIST
-- **99 HULL - Titan - Gallente** — READY | STANDARD | SPECIALIST
-- **99 HULL - Titan - Minmatar** — READY | STANDARD | SPECIALIST
-- **99 HULL - Lancer Dreadnoughts** — READY | STANDARD | SPECIALIST
-- **99 HULL - Command Carriers** — READY | STANDARD | SPECIALIST
+Każdy plan ma trzy pliki importowe: `BASIC.txt`, `STANDARD.txt`, `IMPROVED.txt`.
+
+- **00 CORE - Engineering, Capacitor & Rigging** — [`README`](./plans/00_CORE_-_Engineering_Capacitor_and_Rigging/README.md)
+- **01 CORE - Navigation** — [`README`](./plans/01_CORE_-_Navigation/README.md)
+- **02 CORE - Targeting** — [`README`](./plans/02_CORE_-_Targeting/README.md)
+- **03 CORE - PvP Heat** — [`README`](./plans/03_CORE_-_PvP_Heat/README.md)
+- **10 COMBAT - Damage Mods & Weapon Fitting** — [`README`](./plans/10_COMBAT_-_Damage_Mods_and_Weapon_Fitting/README.md)
+- **21 TANK - Armor Buffer** — [`README`](./plans/21_TANK_-_Armor_Buffer/README.md)
+- **22 TANK - Armor Active** — [`README`](./plans/22_TANK_-_Armor_Active/README.md)
+- **30 TANK - Shield Passive/Buffer** — [`README`](./plans/30_TANK_-_Shield_Passive-Buffer/README.md)
+- **31 TANK - Shield Active** — [`README`](./plans/31_TANK_-_Shield_Active/README.md)
+- **50 WEAPON - Turret Support** — [`README`](./plans/50_WEAPON_-_Turret_Support/README.md)
+- **51 WEAPON - Hybrid** — [`README`](./plans/51_WEAPON_-_Hybrid/README.md)
+- **52 WEAPON - Projectile** — [`README`](./plans/52_WEAPON_-_Projectile/README.md)
+- **53 WEAPON - Energy** — [`README`](./plans/53_WEAPON_-_Energy/README.md)
+- **60 WEAPON - Missile Support** — [`README`](./plans/60_WEAPON_-_Missile_Support/README.md)
+- **61 MISSILE - Rockets & Light** — [`README`](./plans/61_MISSILE_-_Rockets_and_Light/README.md)
+- **62 MISSILE - HAM & Heavy** — [`README`](./plans/62_MISSILE_-_HAM_and_Heavy/README.md)
+- **63 MISSILE - Torpedo & Cruise** — [`README`](./plans/63_MISSILE_-_Torpedo_and_Cruise/README.md)
+- **70 WEAPON - Drone Support** — [`README`](./plans/70_WEAPON_-_Drone_Support/README.md)
+- **71 DRONES - Light T2** — [`README`](./plans/71_DRONES_-_Light_T2/README.md)
+- **72 DRONES - Medium T2** — [`README`](./plans/72_DRONES_-_Medium_T2/README.md)
+- **73 DRONES - Heavy & Sentry** — [`README`](./plans/73_DRONES_-_Heavy_and_Sentry/README.md)
+- **80 SCOUT - Signature, Combat & Covert** — [`README`](./plans/80_SCOUT_-_Signature_Combat_and_Covert/README.md)
+- **83 CYNO - Industrial, Hard & Covert (INDUSTRIAL), Hard & Covert** — [`README`](./plans/83_CYNO_-_Industrial_Hard_and_Covert/README.md)
+- **90 HULL - Frigate - Amarr** — [`README`](./plans/90_HULL_-_Frigate_-_Amarr/README.md)
+- **90 HULL - Frigate - Caldari** — [`README`](./plans/90_HULL_-_Frigate_-_Caldari/README.md)
+- **90 HULL - Frigate - Gallente** — [`README`](./plans/90_HULL_-_Frigate_-_Gallente/README.md)
+- **90 HULL - Frigate - Minmatar** — [`README`](./plans/90_HULL_-_Frigate_-_Minmatar/README.md)
+- **91 HULL - Destroyer - Amarr** — [`README`](./plans/91_HULL_-_Destroyer_-_Amarr/README.md)
+- **91 HULL - Destroyer - Caldari** — [`README`](./plans/91_HULL_-_Destroyer_-_Caldari/README.md)
+- **91 HULL - Destroyer - Gallente** — [`README`](./plans/91_HULL_-_Destroyer_-_Gallente/README.md)
+- **91 HULL - Destroyer - Minmatar** — [`README`](./plans/91_HULL_-_Destroyer_-_Minmatar/README.md)
+- **92 HULL - Cruiser - Amarr** — [`README`](./plans/92_HULL_-_Cruiser_-_Amarr/README.md)
+- **92 HULL - Cruiser - Caldari** — [`README`](./plans/92_HULL_-_Cruiser_-_Caldari/README.md)
+- **92 HULL - Cruiser - Gallente** — [`README`](./plans/92_HULL_-_Cruiser_-_Gallente/README.md)
+- **92 HULL - Cruiser - Minmatar** — [`README`](./plans/92_HULL_-_Cruiser_-_Minmatar/README.md)
+- **93 HULL - Battlecruiser - Amarr** — [`README`](./plans/93_HULL_-_Battlecruiser_-_Amarr/README.md)
+- **93 HULL - Battlecruiser - Caldari** — [`README`](./plans/93_HULL_-_Battlecruiser_-_Caldari/README.md)
+- **93 HULL - Battlecruiser - Gallente** — [`README`](./plans/93_HULL_-_Battlecruiser_-_Gallente/README.md)
+- **93 HULL - Battlecruiser - Minmatar** — [`README`](./plans/93_HULL_-_Battlecruiser_-_Minmatar/README.md)
+- **94 HULL - Battleship - Amarr** — [`README`](./plans/94_HULL_-_Battleship_-_Amarr/README.md)
+- **94 HULL - Battleship - Caldari** — [`README`](./plans/94_HULL_-_Battleship_-_Caldari/README.md)
+- **94 HULL - Battleship - Gallente** — [`README`](./plans/94_HULL_-_Battleship_-_Gallente/README.md)
+- **94 HULL - Battleship - Minmatar** — [`README`](./plans/94_HULL_-_Battleship_-_Minmatar/README.md)
+- **95 HULL - Freighter - Amarr** — [`README`](./plans/95_HULL_-_Freighter_-_Amarr/README.md)
+- **95 HULL - Freighter - Caldari** — [`README`](./plans/95_HULL_-_Freighter_-_Caldari/README.md)
+- **95 HULL - Freighter - Gallente** — [`README`](./plans/95_HULL_-_Freighter_-_Gallente/README.md)
+- **95 HULL - Freighter - Minmatar** — [`README`](./plans/95_HULL_-_Freighter_-_Minmatar/README.md)
+- **95 HULL - Hauler - Amarr** — [`README`](./plans/95_HULL_-_Hauler_-_Amarr/README.md)
+- **95 HULL - Hauler - Caldari** — [`README`](./plans/95_HULL_-_Hauler_-_Caldari/README.md)
+- **95 HULL - Hauler - Gallente** — [`README`](./plans/95_HULL_-_Hauler_-_Gallente/README.md)
+- **95 HULL - Hauler - Minmatar** — [`README`](./plans/95_HULL_-_Hauler_-_Minmatar/README.md)
+- **95 HULL - Jump Freighter** — [`README`](./plans/95_HULL_-_Jump_Freighter/README.md)
+- **95 HULL - Transport Ships** — [`README`](./plans/95_HULL_-_Transport_Ships/README.md)
+- **96 HULL - Capital Industrial** — [`README`](./plans/96_HULL_-_Capital_Industrial/README.md)
+- **96 HULL - Exhumers** — [`README`](./plans/96_HULL_-_Exhumers/README.md)
+- **96 HULL - Expedition Frigates** — [`README`](./plans/96_HULL_-_Expedition_Frigates/README.md)
+- **96 HULL - Industrial Command Ships** — [`README`](./plans/96_HULL_-_Industrial_Command_Ships/README.md)
+- **96 HULL - Mining Barge** — [`README`](./plans/96_HULL_-_Mining_Barge/README.md)
+- **96 HULL - Mining Destroyer** — [`README`](./plans/96_HULL_-_Mining_Destroyer/README.md)
+- **96 HULL - Mining Frigate** — [`README`](./plans/96_HULL_-_Mining_Frigate/README.md)
+- **96 HULL - ORE Freighter** — [`README`](./plans/96_HULL_-_ORE_Freighter/README.md)
+- **96 HULL - ORE Hauler** — [`README`](./plans/96_HULL_-_ORE_Hauler/README.md)
+- **97 HULL - Assault Frigates** — [`README`](./plans/97_HULL_-_Assault_Frigates/README.md)
+- **97 HULL - Black Ops** — [`README`](./plans/97_HULL_-_Black_Ops/README.md)
+- **97 HULL - Command Destroyers** — [`README`](./plans/97_HULL_-_Command_Destroyers/README.md)
+- **97 HULL - Command Ships** — [`README`](./plans/97_HULL_-_Command_Ships/README.md)
+- **97 HULL - Electronic Attack Ships** — [`README`](./plans/97_HULL_-_Electronic_Attack_Ships/README.md)
+- **97 HULL - Heavy Assault Cruisers** — [`README`](./plans/97_HULL_-_Heavy_Assault_Cruisers/README.md)
+- **97 HULL - Heavy Interdiction Cruisers** — [`README`](./plans/97_HULL_-_Heavy_Interdiction_Cruisers/README.md)
+- **97 HULL - Interceptors** — [`README`](./plans/97_HULL_-_Interceptors/README.md)
+- **97 HULL - Interdictors** — [`README`](./plans/97_HULL_-_Interdictors/README.md)
+- **97 HULL - Logistics Cruisers** — [`README`](./plans/97_HULL_-_Logistics_Cruisers/README.md)
+- **97 HULL - Logistics Frigates** — [`README`](./plans/97_HULL_-_Logistics_Frigates/README.md)
+- **97 HULL - Marauders** — [`README`](./plans/97_HULL_-_Marauders/README.md)
+- **97 HULL - Recon Ships** — [`README`](./plans/97_HULL_-_Recon_Ships/README.md)
+- **98 HULL - Strategic Cruiser - Legion** — [`README`](./plans/98_HULL_-_Strategic_Cruiser_-_Legion/README.md)
+- **98 HULL - Strategic Cruiser - Loki** — [`README`](./plans/98_HULL_-_Strategic_Cruiser_-_Loki/README.md)
+- **98 HULL - Strategic Cruiser - Proteus** — [`README`](./plans/98_HULL_-_Strategic_Cruiser_-_Proteus/README.md)
+- **98 HULL - Strategic Cruiser - Tengu** — [`README`](./plans/98_HULL_-_Strategic_Cruiser_-_Tengu/README.md)
+- **99 HULL - Carrier - Amarr** — [`README`](./plans/99_HULL_-_Carrier_-_Amarr/README.md)
+- **99 HULL - Carrier - Caldari** — [`README`](./plans/99_HULL_-_Carrier_-_Caldari/README.md)
+- **99 HULL - Carrier - Gallente** — [`README`](./plans/99_HULL_-_Carrier_-_Gallente/README.md)
+- **99 HULL - Carrier - Minmatar** — [`README`](./plans/99_HULL_-_Carrier_-_Minmatar/README.md)
+- **99 HULL - Command Carriers** — [`README`](./plans/99_HULL_-_Command_Carriers/README.md)
+- **99 HULL - Dreadnought - Amarr** — [`README`](./plans/99_HULL_-_Dreadnought_-_Amarr/README.md)
+- **99 HULL - Dreadnought - Caldari** — [`README`](./plans/99_HULL_-_Dreadnought_-_Caldari/README.md)
+- **99 HULL - Dreadnought - Gallente** — [`README`](./plans/99_HULL_-_Dreadnought_-_Gallente/README.md)
+- **99 HULL - Dreadnought - Minmatar** — [`README`](./plans/99_HULL_-_Dreadnought_-_Minmatar/README.md)
+- **99 HULL - Lancer Dreadnoughts** — [`README`](./plans/99_HULL_-_Lancer_Dreadnoughts/README.md)

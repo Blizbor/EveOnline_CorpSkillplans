@@ -2,17 +2,13 @@
 
 **Kategoria:** HULL
 
-## Uwagi
+## Poziomy
 
-- Na dzień 2026-09-05 prereq Mining Barge jest tymczasowo z powrotem Mining Frigate III (nie Mining Destroyer III).
+### BASIC
 
-## Milestone'y
+Najniższy rozsądny poziom wejścia.
 
-### READY
-
-Barge-ready.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -25,9 +21,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Dobry Procurer/Retriever/Covetor.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -38,11 +34,11 @@ Docelowe poziomy:
 - Mining Frigate III
 - Mining Barge IV
 
-### SPECIALIST
+### IMPROVED
 
-Exhumers gateway.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -52,3 +48,13 @@ Docelowe poziomy:
 - Industry V
 - Mining Frigate III
 - Mining Barge V
+
+## Uwagi
+
+- Na dzień 2026-09-05 prereq Mining Barge jest tymczasowo z powrotem Mining Frigate III (nie Mining Destroyer III).
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

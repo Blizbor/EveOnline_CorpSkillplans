@@ -2,17 +2,13 @@
 
 **Kategoria:** WEAPON
 
-## Zależności / zalecane plany
+## Poziomy
 
-- 60 WEAPON - Missile Core
+### BASIC
 
-## Milestone'y
+Najniższy rozsądny poziom wejścia.
 
-### READY
-
-Dobre T1/meta medium missiles.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -23,9 +19,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-T2 HAM + HML; cruiser/BC standard.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -36,11 +32,11 @@ Docelowe poziomy:
 - Heavy Assault Missile Specialization III
 - Heavy Missile Specialization III
 
-### SPECIALIST
+### IMPROVED
 
-Spec IV obu medium systems.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -50,3 +46,13 @@ Docelowe poziomy:
 - Heavy Missiles V
 - Heavy Assault Missile Specialization IV
 - Heavy Missile Specialization IV
+
+## Zależności / zalecane plany
+
+- 60 WEAPON - Missile Support
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

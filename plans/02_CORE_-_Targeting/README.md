@@ -2,13 +2,13 @@
 
 **Kategoria:** CORE
 
-## Milestone'y
+## Poziomy
 
-### READY
+### BASIC
 
-Wystarczająca liczba locków, range i szybkość lockowania.
+Najniższy rozsądny poziom wejścia.
 
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -19,27 +19,33 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Dobry ogólny poziom dla combat subcapów.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
 - CPU Management II
 - Target Management IV
 - Long Range Targeting IV
-- Signature Analysis V
+- Signature Analysis IV
 
-### SPECIALIST
+### IMPROVED
 
-Logi/EWAR/sniper i role wymagające wielu targetów.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
 - CPU Management II
 - Target Management V
-- Long Range Targeting V
-- Signature Analysis V
+- Long Range Targeting IV
+- Signature Analysis IV
 - Advanced Target Management III
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

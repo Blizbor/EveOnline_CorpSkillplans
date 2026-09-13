@@ -2,18 +2,13 @@
 
 **Kategoria:** HULL
 
-## Uwagi
+## Poziomy
 
-- Dodatkowo wymagany wybrany racial Freighter IV.
-- JDC V jest strategicznie bardzo mocne; dlatego trafia do SPECIALIST, ale dla wielu corpów warto uczynić je standardem.
+### BASIC
 
-## Milestone'y
+Najniższy rozsądny poziom wejścia.
 
-### READY
-
-Minimalny działający JF operator; wymaga racial Freighter IV.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -29,9 +24,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Praktyczny corp JF standard.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -46,11 +41,11 @@ Docelowe poziomy:
 - Jump Freighters IV
 - Jump Fuel Conservation IV
 
-### SPECIALIST
+### IMPROVED
 
-Dedicated JF pilot.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -61,6 +56,17 @@ Docelowe poziomy:
 - Navigation V
 - Warp Drive Operation V
 - Jump Drive Operation V
-- Jump Drive Calibration V
-- Jump Freighters V
-- Jump Fuel Conservation V
+- Jump Drive Calibration IV
+- Jump Freighters IV
+- Jump Fuel Conservation IV
+
+## Uwagi
+
+- Dodatkowo wymagany wybrany racial Freighter IV.
+- JDC V jest strategicznie bardzo mocne; dlatego trafia do SPECIALIST, ale dla wielu corpów warto uczynić je standardem.
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

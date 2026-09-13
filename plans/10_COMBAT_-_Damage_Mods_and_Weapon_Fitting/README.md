@@ -2,30 +2,36 @@
 
 **Kategoria:** COMBAT
 
-## Uwagi
+## Poziomy
 
-- Gunnery II jest prerequisite Weapon Upgrades, a nie deklaracją używania turretów.
-- Weapon Upgrades IV odblokowuje m.in. DDA II, BCS II, MFS II, Gyro II i Heat Sink II.
+### BASIC
 
-## Milestone'y
+Najniższy rozsądny poziom wejścia.
 
-### READY
-
-T2 damage mods + przyzwoity fitting broni.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
 - Gunnery II
 - Weapon Upgrades IV
-- Advanced Weapon Upgrades III
 
 ### STANDARD
 
-Dobry corp combat fitting.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
+
+Docelowe poziomy:
+
+- Gunnery II
+- Weapon Upgrades V
+- Advanced Weapon Upgrades III
+
+### IMPROVED
+
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
+
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -33,14 +39,13 @@ Docelowe poziomy:
 - Weapon Upgrades V
 - Advanced Weapon Upgrades IV
 
-### SPECIALIST
+## Uwagi
 
-Doktryny z ciasnym PG, Marauders/capitals i trudne fity.
+- Gunnery II jest prerequisite Weapon Upgrades, a nie deklaracją używania turretów.
+- Weapon Upgrades IV odblokowuje m.in. DDA II, BCS II, MFS II, Gyro II i Heat Sink II.
 
-Plik importowy: `SPECIALIST.txt`
+## Zasada level V
 
-Docelowe poziomy:
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
 
-- Gunnery II
-- Weapon Upgrades V
-- Advanced Weapon Upgrades V
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

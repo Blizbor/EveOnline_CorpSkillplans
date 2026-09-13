@@ -2,17 +2,13 @@
 
 **Kategoria:** HULL
 
-## Uwagi
+## Poziomy
 
-- Plan obejmuje skill hulla oraz wszystkie cztery subsystem skills; broń/tank nadal dobierasz z sekcji 20-74.
+### BASIC
 
-## Milestone'y
+Najniższy rozsądny poziom wejścia.
 
-### READY
-
-T3C usable bez dziur na subsystemach.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -32,9 +28,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Dobry T3C standard.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -52,11 +48,11 @@ Docelowe poziomy:
 - Amarr Offensive Systems IV
 - Amarr Propulsion Systems IV
 
-### SPECIALIST
+### IMPROVED
 
-Maksymalny hull + subsystem skills.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -68,8 +64,18 @@ Docelowe poziomy:
 - Gunnery V
 - Drones III
 - Navigation V
-- Amarr Strategic Cruiser V
-- Amarr Defensive Systems V
-- Amarr Core Systems V
-- Amarr Offensive Systems V
-- Amarr Propulsion Systems V
+- Amarr Strategic Cruiser IV
+- Amarr Defensive Systems IV
+- Amarr Core Systems IV
+- Amarr Offensive Systems IV
+- Amarr Propulsion Systems IV
+
+## Uwagi
+
+- Plan obejmuje skill hulla oraz wszystkie cztery subsystem skills; broń/tank nadal dobierasz z sekcji 20-74.
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).

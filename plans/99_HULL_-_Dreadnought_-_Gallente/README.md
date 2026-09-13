@@ -2,17 +2,13 @@
 
 **Kategoria:** HULL
 
-## Uwagi
+## Poziomy
 
-- Capital weapon/tank/support skills są osobną specjalizacją; ten plan nie udaje pełnego combat-dread planu.
+### BASIC
 
-## Milestone'y
+Najniższy rozsądny poziom wejścia.
 
-### READY
-
-Dread hull access z sensownym hull skillem.
-
-Plik importowy: `READY.txt`
+Import: [`BASIC.txt`](BASIC.txt)
 
 Docelowe poziomy:
 
@@ -34,9 +30,9 @@ Docelowe poziomy:
 
 ### STANDARD
 
-Dobry dread hull skill.
+Poziom zalecany do regularnego używania.
 
-Plik importowy: `STANDARD.txt`
+Import: [`STANDARD.txt`](STANDARD.txt)
 
 Docelowe poziomy:
 
@@ -56,11 +52,11 @@ Docelowe poziomy:
 - Jump Fuel Conservation IV
 - Gallente Dreadnought IV
 
-### SPECIALIST
+### IMPROVED
 
-Max racial dread / Lancer gateway.
+Dalsze rozwinięcie bez automatycznego wciskania opcjonalnych level V.
 
-Plik importowy: `SPECIALIST.txt`
+Import: [`IMPROVED.txt`](IMPROVED.txt)
 
 Docelowe poziomy:
 
@@ -76,6 +72,16 @@ Docelowe poziomy:
 - Navigation V
 - Warp Drive Operation V
 - Jump Drive Operation V
-- Jump Drive Calibration V
-- Jump Fuel Conservation V
+- Jump Drive Calibration IV
+- Jump Fuel Conservation IV
 - Gallente Dreadnought V
+
+## Uwagi
+
+- Capital weapon/tank/support skills są osobną specjalizacją; ten plan nie udaje pełnego combat-dread planu.
+
+## Zasada level V
+
+Ten plan nie trenuje level V tylko dlatego, że istnieje. V pozostaje w kolejce wtedy, gdy odblokowuje moduł/hull/skill wymagany przez ten konkretny poziom albo jest świadomym wyjątkiem dla roli. Pozostałe V gracz dobiera sam po osiągnięciu `IMPROVED`.
+
+Zobacz także [`../../NIGDY_NA_LEVEL_5.md`](../../NIGDY_NA_LEVEL_5.md).
