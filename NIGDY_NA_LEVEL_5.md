@@ -5,14 +5,38 @@
 > Na poziomie `IMPROVED` pilot powinien już rozumieć swój fit i sam zdecydować, czy ostatnie 5% jest warte czasu.
 > Wyjątkiem są V wymagane do konkretnego modułu, T2 broni, hulla albo dalszej progresji — wtedy plan nadal je zawiera.
 
+## Najważniejsza korekta po aktualizacji 2026-09-13
+
+Cztery skille **nie są już domyślnie zatrzymywane na IV** w planie `00 CORE - Engineering, Capacitor & Rigging`:
+
+- `CPU Management V`
+- `Power Grid Management V`
+- `Capacitor Management V`
+- `Capacitor Systems Operation V`
+
+Powód jest praktyczny, nie teoretyczny:
+
+- bez nich bardzo często kończy się na ratowaniu fita frakcją albo sztucznym cięciu innych modułów,
+- capacitor jest krytyczny zarówno w PvP, jak i PvE,
+- statki oparte o AB/speed tank, active tank albo długie engagementy po prostu **żyją z capa**.
+
+W skrócie: te cztery V zostały uznane za **wyjątek od reguły** i trafiają do `IMPROVED`.
+
 ## Engineering / capacitor / fitting
+
+### Skille, które jednak idą na V w `00 IMPROVED`
+
+| Skill | Dlaczego V ma sens już na etapie IMPROVED |
+|---|---|
+| CPU Management V | kolejne 5% CPU bardzo często robi różnicę między „fit działa” a „trzeba ratować się frakcją / meta kompromisem” |
+| Power Grid Management V | to samo po stronie PG; wyjątkowo praktyczny i szeroko użyteczny skill |
+| Capacitor Management V | większy cap pool mocno pomaga aktywnym tankom, AB fits, logi i długim walkom |
+| Capacitor Systems Operation V | lepszy recharge to realna, codzienna poprawa używalności fitów |
+
+### Skille, które domyślnie zostają na IV
 
 | Skill | Domyślny stop | Dlaczego nie wymuszamy V | Kiedy V ma sens |
 |---|---:|---|---|
-| CPU Management | IV | V daje kolejne 5% CPU, ale nie jest uniwersalnym prerequisite | bardzo ciasne fity |
-| Power Grid Management | IV | kolejne 5% PG jest dobre, lecz koszt V zostawiamy graczowi | PG-tight fits |
-| Capacitor Management | IV | V jest korzystne, ale zwykle nie odblokowuje podstawowego subcap gameplay | active tank/logi/cap-sensitive fit |
-| Capacitor Systems Operation | IV | V poprawia recharge, ale jest już optymalizacją | cap-sensitive fit |
 | Energy Grid Upgrades | IV | V niepotrzebne ogólnie | gdy wymaga go hull/moduł, np. konkretna T2 progresja |
 | Electronics Upgrades | IV | V niepotrzebne ogólnie | Covert Ops/Recon i inne wymagające hull progression |
 | Advanced Weapon Upgrades | IV | V to długi train za kolejne 2% PG broni | Marauder/Dread prerequisite albo fit, który naprawdę wymaga V |
@@ -81,14 +105,7 @@ Wtedy V trafia do `IMPROVED` rodziny broni, ponieważ jest prerequisite do obiec
 
 ### Specialization skills
 
-- Small/Medium/Large Blaster Specialization IV
-- Small/Medium/Large Railgun Specialization IV
-- Small/Medium/Large Autocannon Specialization IV
-- Small/Medium/Large Artillery Specialization IV
-- Small/Medium/Large Pulse Laser Specialization IV
-- Small/Medium/Large Beam Laser Specialization IV
-
-**Nie wciskamy Specialization V.** Każdy taki poziom daje tylko kolejny 2% bonus dla odpowiednich T2 turretów i jest klasycznym „pilot sam zdecyduje”.
+Wszystkie specialization skille kończą się domyślnie na **IV**, nie na V.
 
 ## Missiles
 
@@ -103,15 +120,7 @@ Supporty domyślnie do IV:
 - Launcher Rigging IV
 
 Primary missile skill V zostaje tam, gdzie jest wymagany do T2 launchera/specjalizacji.
-
-Specializations kończą się na IV:
-
-- Rocket Specialization IV
-- Light Missile Specialization IV
-- Heavy Assault Missile Specialization IV
-- Heavy Missile Specialization IV
-- Torpedo Specialization IV
-- Cruise Missile Specialization IV
+Missile specialization skille również kończą się domyślnie na **IV**.
 
 ## Drones
 

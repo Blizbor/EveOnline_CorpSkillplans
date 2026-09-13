@@ -1,7 +1,13 @@
 {
   "plan_count": 89,
-  "strategy_documents": 12,
-  "plan_readmes": 89,
+  "strategy_documents": 16,
+  "diagram_documents": 14,
   "queue_files": 267,
-  "level5_entries_remaining_in_improved": 226
+  "plan_readmes": 89,
+  "new_docs_added": [
+    "docs/T2_MODULE_UNLOCKS.md",
+    "strategies/SCENARIOS/GILA_SCENARIO.md",
+    "strategies/SCENARIOS/GILA_SCENARIO_DIAGRAM.md",
+    "diagrams/README.md"
+  ]
 }

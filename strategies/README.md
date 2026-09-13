@@ -18,3 +18,8 @@ Po aktualizacji:
 - `10 IMPROVED` = Weapon Upgrades V + AWU IV.
 
 Dlatego regularne combat cruisery, HAC-i i Battleshipy w strategiach używają zwykle `10 I`.
+
+
+## Scenariusze
+
+- [`SCENARIOS`](SCENARIOS) — praktyczne przekrojowe ścieżki rozwoju łączące wiele planów, wraz z osobnymi diagramami.
